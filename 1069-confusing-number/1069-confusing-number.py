@@ -16,5 +16,5 @@ class Solution:
             c=stack.pop()
             res+=f*c
             f*=10
-        print(og,res)
+        # print(og,res)
         return True if  res!=og else False
