@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/ghost9933/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1074-high-five](https://github.com/ghost9933/DSA/tree/master/1074-high-five) |
 | [1319-unique-number-of-occurrences](https://github.com/ghost9933/DSA/tree/master/1319-unique-number-of-occurrences) |
+| [1345-perform-string-shifts](https://github.com/ghost9933/DSA/tree/master/1345-perform-string-shifts) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ghost9933/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1397-search-suggestions-system](https://github.com/ghost9933/DSA/tree/master/1397-search-suggestions-system) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ghost9933/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1119-robot-bounded-in-circle](https://github.com/ghost9933/DSA/tree/master/1119-robot-bounded-in-circle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ghost9933/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/ghost9933/DSA/tree/master/1250-longest-common-subsequence) |
+| [1345-perform-string-shifts](https://github.com/ghost9933/DSA/tree/master/1345-perform-string-shifts) |
 | [1397-search-suggestions-system](https://github.com/ghost9933/DSA/tree/master/1397-search-suggestions-system) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ghost9933/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ghost9933/DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1119-robot-bounded-in-circle](https://github.com/ghost9933/DSA/tree/master/1119-robot-bounded-in-circle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ghost9933/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/ghost9933/DSA/tree/master/1236-n-th-tribonacci-number) |
+| [1345-perform-string-shifts](https://github.com/ghost9933/DSA/tree/master/1345-perform-string-shifts) |
 | [3024-string-transformation](https://github.com/ghost9933/DSA/tree/master/3024-string-transformation) |
 ## Simulation
 |  |
