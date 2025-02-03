@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2808-painting-the-walls](https://github.com/ghost9933/DSA/tree/master/2808-painting-the-walls) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/ghost9933/DSA/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ghost9933/DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ghost9933/DSA/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/ghost9933/DSA/tree/master/3429-special-array-i) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/ghost9933/DSA/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 ## Dynamic Programming
