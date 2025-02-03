@@ -11,7 +11,7 @@ class Solution:
             s[i]=t
             i+=1
             j-=1
-        print(s)
+        # print(s)
         i=0
         j=0
         while i<len(s):
@@ -27,5 +27,5 @@ class Solution:
                 j-=1
             i=new
             j=new
-        print(s)
+        # print(s)
         
