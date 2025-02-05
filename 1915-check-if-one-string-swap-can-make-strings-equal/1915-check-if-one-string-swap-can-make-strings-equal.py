@@ -1,20 +1,22 @@
-from collections import Counter
 class Solution:
     def areAlmostEqual(self, s1: str, s2: str) -> bool:
-        n=len(s1)
-        m=len(s2)
-        if n!=m:
-            return False
-        
-        strc1=dict(Counter(s1))
-        strc2=dict(Counter(s2))
-        if strc1!=strc2:
-            return False 
-        # return True
-        miss=0
-        for i in range(n):
-            if s1[i]!=s2[i]:
-                miss+=1
-            if miss>2:
-                return False
-        return True 
+        first_index_diff = 0
+        second_index_diff = 0
+        num_diffs = 0
+        for i in range(len(s1)):
+            if s1[i] != s2[i]:
+                num_diffs += 1
+                # num_diffs is more than 2, one string swap will not make two strings equal
+                if num_diffs > 2:
+                    return False
+                elif num_diffs == 1:
+                    # store the index of first difference
+                    first_index_diff = i
+                else:
+                    # store the index of second difference
+                    second_index_diff = i
+        # check if swap is possible
+        return (
+            s1[first_index_diff] == s2[second_index_diff]
+            and s1[second_index_diff] == s2[first_index_diff]
+        )
