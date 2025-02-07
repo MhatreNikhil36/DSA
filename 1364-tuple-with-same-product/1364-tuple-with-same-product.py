@@ -7,15 +7,12 @@ class Solution:
             while j<len(nums):
                 k=nums[i]*nums[j]
                 if k not in main:
-                    main[k]=set()
-                
-                main[k].add((nums[i],nums[j]))
-                j+=1
-        # for x in main:
-        #     print(x,main[x])      
+                    main[k]=0
+                main[k]+=1  
+                j+=1   
         ans=0
         for x in main:
-            f=len(main[x])
+            f=main[x]
             ans+=((f-1)*f/2)*8
 
 
