@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ghost9933/DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ghost9933/DSA/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/ghost9933/DSA/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ghost9933/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/ghost9933/DSA/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 ## Dynamic Programming
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/ghost9933/DSA/tree/master/2685-first-completely-painted-row-or-column) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/ghost9933/DSA/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ghost9933/DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ghost9933/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/ghost9933/DSA/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 ## Prefix Sum
 |  |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/ghost9933/DSA/tree/master/2470-removing-stars-from-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/ghost9933/DSA/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ghost9933/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ghost9933/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Two Pointers
 |  |
 | ------- |
