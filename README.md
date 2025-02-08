@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2186-count-vowel-substrings-of-a-string](https://github.com/ghost9933/DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2413-smallest-number-in-infinite-set](https://github.com/ghost9933/DSA/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/ghost9933/DSA/tree/master/2428-equal-row-and-column-pairs) |
+| [2434-design-a-number-container-system](https://github.com/ghost9933/DSA/tree/master/2434-design-a-number-container-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ghost9933/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ghost9933/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ghost9933/DSA/tree/master/2685-first-completely-painted-row-or-column) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1270-dinner-plate-stacks](https://github.com/ghost9933/DSA/tree/master/1270-dinner-plate-stacks) |
 | [1397-search-suggestions-system](https://github.com/ghost9933/DSA/tree/master/1397-search-suggestions-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/ghost9933/DSA/tree/master/2413-smallest-number-in-infinite-set) |
+| [2434-design-a-number-container-system](https://github.com/ghost9933/DSA/tree/master/2434-design-a-number-container-system) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/ghost9933/DSA/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/ghost9933/DSA/tree/master/2636-maximum-subsequence-score) |
 ## Database
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-number-of-recent-calls](https://github.com/ghost9933/DSA/tree/master/0969-number-of-recent-calls) |
 | [1270-dinner-plate-stacks](https://github.com/ghost9933/DSA/tree/master/1270-dinner-plate-stacks) |
 | [2413-smallest-number-in-infinite-set](https://github.com/ghost9933/DSA/tree/master/2413-smallest-number-in-infinite-set) |
+| [2434-design-a-number-container-system](https://github.com/ghost9933/DSA/tree/master/2434-design-a-number-container-system) |
 ## Binary Tree
 |  |
 | ------- |
@@ -604,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/ghost9933/DSA/tree/master/2413-smallest-number-in-infinite-set) |
+| [2434-design-a-number-container-system](https://github.com/ghost9933/DSA/tree/master/2434-design-a-number-container-system) |
 ## Interactive
 |  |
 | ------- |
