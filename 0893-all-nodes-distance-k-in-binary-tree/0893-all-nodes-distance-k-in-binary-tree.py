@@ -1,28 +1,31 @@
 class Solution:
     def distanceK(self, root: TreeNode, target: TreeNode, k: int) -> List[int]:
-        # Recursively add a parent pointer to each node.
-        def add_parent(cur, parent):
-            if cur:
-                cur.parent = parent
-                add_parent(cur.left, cur)
-                add_parent(cur.right, cur)
+        graph = collections.defaultdict(list)
 
-        add_parent(root, None)
+        # Recursively build the undirected graph from the given binary tree.
+        def build_graph(cur, parent):
+            if cur and parent:
+                graph[cur.val].append(parent.val)
+                graph[parent.val].append(cur.val)
+            if cur.left:
+                build_graph(cur.left, cur)
+            if cur.right:
+                build_graph(cur.right, cur)
+
+        build_graph(root, None)
 
         answer = []
-        visited = set()
+        visited = set([target.val])
 
         def dfs(cur, distance):
-            if not cur or cur in visited:
+            if distance == k:
+                answer.append(cur)
                 return
-            visited.add(cur)
-            if distance == 0:
-                answer.append(cur.val)
-                return
-            dfs(cur.parent, distance - 1)
-            dfs(cur.left, distance - 1)
-            dfs(cur.right, distance - 1)
+            for neighbor in graph[cur]:
+                if neighbor not in visited:
+                    visited.add(neighbor)
+                    dfs(neighbor, distance + 1)
 
-        dfs(target, k)
+        dfs(target.val, 0)
 
         return answer
