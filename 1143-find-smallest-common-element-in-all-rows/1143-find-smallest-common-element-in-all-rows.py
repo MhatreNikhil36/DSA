@@ -7,14 +7,14 @@ class Solution:
                 continue
             if len(prev)==0:
                 return -1
-            print(prev)
+            # print(prev)
             curr=set()
             for i in mat[x]:
                 if i in prev:
                     curr.add(i)
             
             prev=curr
-            print(prev)
+            # print(prev)
         return min(prev) if len(prev)>0 else -1
 
 
