@@ -24,7 +24,7 @@ class Solution:
                 else:
                     y=dfs(node.right,0)
                     y=max(y,l)
-            print(node.val,x,y)
+            # print(node.val,x,y)
             return max(x,y,l)
         return dfs(root,0)+1
             
