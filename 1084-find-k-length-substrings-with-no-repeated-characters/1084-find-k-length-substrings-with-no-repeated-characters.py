@@ -17,8 +17,8 @@ class Solution:
             window.append([i,s[i]])
 
                 
-            # if window and window[-1][0]-window[0][0]>=k-1:
-            if len(char)>=k:
+            if window and window[-1][0]-window[0][0]>=k-1:
+            # if len(char)>=k:
                 p,v=window.popleft()
                 char.remove(v)
                 ans+=1
