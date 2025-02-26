@@ -43,13 +43,13 @@ class Solution:
             for i in range(n):
                 for j in range(m):
                     identify(i,j)
-            print(crush)
+            # print(crush)
             for x,y in crush:
                 board[x][y]=0
             for x,y in crush:
                 gravity(x,y)
             crush=[]
-            print(board==prev)
+            # print(board==prev)
         return board
 
         
