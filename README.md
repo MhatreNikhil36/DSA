@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/ghost9933/DSA/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ghost9933/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ghost9933/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0723-candy-crush](https://github.com/MhatreNikhil36/DSA/tree/master/0723-candy-crush) |
 | [0724-find-pivot-index](https://github.com/ghost9933/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/ghost9933/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ghost9933/DSA/tree/master/0739-daily-temperatures) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ghost9933/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/ghost9933/DSA/tree/master/0079-word-search) |
 | [0311-sparse-matrix-multiplication](https://github.com/MhatreNikhil36/DSA/tree/master/0311-sparse-matrix-multiplication) |
+| [0723-candy-crush](https://github.com/MhatreNikhil36/DSA/tree/master/0723-candy-crush) |
 | [0854-making-a-large-island](https://github.com/ghost9933/DSA/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/ghost9933/DSA/tree/master/1036-rotting-oranges) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/ghost9933/DSA/tree/master/1143-find-smallest-common-element-in-all-rows) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/ghost9933/DSA/tree/master/0657-robot-return-to-origin) |
+| [0723-candy-crush](https://github.com/MhatreNikhil36/DSA/tree/master/0723-candy-crush) |
 | [0735-asteroid-collision](https://github.com/ghost9933/DSA/tree/master/0735-asteroid-collision) |
 | [1119-robot-bounded-in-circle](https://github.com/ghost9933/DSA/tree/master/1119-robot-bounded-in-circle) |
 | [2428-equal-row-and-column-pairs](https://github.com/ghost9933/DSA/tree/master/2428-equal-row-and-column-pairs) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ghost9933/DSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/ghost9933/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/ghost9933/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0723-candy-crush](https://github.com/MhatreNikhil36/DSA/tree/master/0723-candy-crush) |
 | [1051-shortest-way-to-form-string](https://github.com/ghost9933/DSA/tree/master/1051-shortest-way-to-form-string) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/ghost9933/DSA/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ghost9933/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
