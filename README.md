@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ghost9933/DSA/tree/master/0283-move-zeroes) |
 | [0311-sparse-matrix-multiplication](https://github.com/MhatreNikhil36/DSA/tree/master/0311-sparse-matrix-multiplication) |
 | [0334-increasing-triplet-subsequence](https://github.com/ghost9933/DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0346-moving-average-from-data-stream](https://github.com/ghost9933/DSA/tree/master/0346-moving-average-from-data-stream) |
 | [0362-design-hit-counter](https://github.com/ghost9933/DSA/tree/master/0362-design-hit-counter) |
 | [0377-combination-sum-iv](https://github.com/ghost9933/DSA/tree/master/0377-combination-sum-iv) |
 | [0399-evaluate-division](https://github.com/ghost9933/DSA/tree/master/0399-evaluate-division) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/ghost9933/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0271-encode-and-decode-strings](https://github.com/ghost9933/DSA/tree/master/0271-encode-and-decode-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ghost9933/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0346-moving-average-from-data-stream](https://github.com/ghost9933/DSA/tree/master/0346-moving-average-from-data-stream) |
 | [0362-design-hit-counter](https://github.com/ghost9933/DSA/tree/master/0362-design-hit-counter) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ghost9933/DSA/tree/master/0535-encode-and-decode-tinyurl) |
 | [0816-design-hashset](https://github.com/ghost9933/DSA/tree/master/0816-design-hashset) |
@@ -603,12 +605,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/ghost9933/DSA/tree/master/0346-moving-average-from-data-stream) |
 | [0362-design-hit-counter](https://github.com/ghost9933/DSA/tree/master/0362-design-hit-counter) |
 | [0649-dota2-senate](https://github.com/ghost9933/DSA/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/ghost9933/DSA/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
+| [0346-moving-average-from-data-stream](https://github.com/ghost9933/DSA/tree/master/0346-moving-average-from-data-stream) |
 | [0362-design-hit-counter](https://github.com/ghost9933/DSA/tree/master/0362-design-hit-counter) |
 | [0937-online-stock-span](https://github.com/ghost9933/DSA/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/ghost9933/DSA/tree/master/0969-number-of-recent-calls) |
