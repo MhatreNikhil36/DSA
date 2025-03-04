@@ -564,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/ghost9933/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0816-design-hashset](https://github.com/ghost9933/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ghost9933/DSA/tree/master/0817-design-hashmap) |
+| [0850-insert-into-a-sorted-circular-linked-list](https://github.com/MhatreNikhil36/DSA/tree/master/0850-insert-into-a-sorted-circular-linked-list) |
 | [1618-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/ghost9933/DSA/tree/master/1618-delete-n-nodes-after-m-nodes-of-a-linked-list) |
 | [1982-remove-duplicates-from-an-unsorted-linked-list](https://github.com/ghost9933/DSA/tree/master/1982-remove-duplicates-from-an-unsorted-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ghost9933/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
