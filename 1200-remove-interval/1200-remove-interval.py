@@ -17,7 +17,7 @@ class Solution:
             elif x<s and y>e:
                 ans.append([x,s])
                 ans.append([e,y])
-        print(ans)
+        # print(ans)
         return ans
 
 
