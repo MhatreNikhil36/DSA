@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/ghost9933/DSA/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/ghost9933/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ghost9933/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0484-find-permutation](https://github.com/MhatreNikhil36/DSA/tree/master/0484-find-permutation) |
 | [0487-max-consecutive-ones-ii](https://github.com/ghost9933/DSA/tree/master/0487-max-consecutive-ones-ii) |
 | [0494-target-sum](https://github.com/ghost9933/DSA/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ghost9933/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/ghost9933/DSA/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ghost9933/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/ghost9933/DSA/tree/master/0443-string-compression) |
+| [0484-find-permutation](https://github.com/MhatreNikhil36/DSA/tree/master/0484-find-permutation) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ghost9933/DSA/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/ghost9933/DSA/tree/master/0567-permutation-in-string) |
 | [0616-add-bold-tag-in-string](https://github.com/ghost9933/DSA/tree/master/0616-add-bold-tag-in-string) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/ghost9933/DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/ghost9933/DSA/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/ghost9933/DSA/tree/master/0445-add-two-numbers-ii) |
+| [0484-find-permutation](https://github.com/MhatreNikhil36/DSA/tree/master/0484-find-permutation) |
 | [0735-asteroid-collision](https://github.com/ghost9933/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ghost9933/DSA/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/ghost9933/DSA/tree/master/0937-online-stock-span) |
@@ -638,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/ghost9933/DSA/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/ghost9933/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ghost9933/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0484-find-permutation](https://github.com/MhatreNikhil36/DSA/tree/master/0484-find-permutation) |
 | [0605-can-place-flowers](https://github.com/ghost9933/DSA/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/ghost9933/DSA/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/ghost9933/DSA/tree/master/0680-valid-palindrome-ii) |
