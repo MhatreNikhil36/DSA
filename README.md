@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/ghost9933/DSA/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/ghost9933/DSA/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/ghost9933/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0785-basic-calculator-iii](https://github.com/MhatreNikhil36/DSA/tree/master/0785-basic-calculator-iii) |
 | [1051-shortest-way-to-form-string](https://github.com/ghost9933/DSA/tree/master/1051-shortest-way-to-form-string) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/ghost9933/DSA/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1119-robot-bounded-in-circle](https://github.com/ghost9933/DSA/tree/master/1119-robot-bounded-in-circle) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/ghost9933/DSA/tree/master/0282-expression-add-operators) |
 | [0445-add-two-numbers-ii](https://github.com/ghost9933/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0492-construct-the-rectangle](https://github.com/ghost9933/DSA/tree/master/0492-construct-the-rectangle) |
+| [0785-basic-calculator-iii](https://github.com/MhatreNikhil36/DSA/tree/master/0785-basic-calculator-iii) |
 | [1069-confusing-number](https://github.com/ghost9933/DSA/tree/master/1069-confusing-number) |
 | [1119-robot-bounded-in-circle](https://github.com/ghost9933/DSA/tree/master/1119-robot-bounded-in-circle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ghost9933/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0484-find-permutation](https://github.com/MhatreNikhil36/DSA/tree/master/0484-find-permutation) |
 | [0735-asteroid-collision](https://github.com/ghost9933/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ghost9933/DSA/tree/master/0739-daily-temperatures) |
+| [0785-basic-calculator-iii](https://github.com/MhatreNikhil36/DSA/tree/master/0785-basic-calculator-iii) |
 | [0937-online-stock-span](https://github.com/ghost9933/DSA/tree/master/0937-online-stock-span) |
 | [1270-dinner-plate-stacks](https://github.com/ghost9933/DSA/tree/master/1270-dinner-plate-stacks) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ghost9933/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -586,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/ghost9933/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ghost9933/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/ghost9933/DSA/tree/master/0394-decode-string) |
+| [0785-basic-calculator-iii](https://github.com/MhatreNikhil36/DSA/tree/master/0785-basic-calculator-iii) |
 ## Union Find
 |  |
 | ------- |
