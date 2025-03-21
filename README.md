@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ghost9933/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/ghost9933/DSA/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0339-nested-list-weight-sum](https://github.com/ghost9933/DSA/tree/master/0339-nested-list-weight-sum) |
+| [0366-find-leaves-of-binary-tree](https://github.com/ghost9933/DSA/tree/master/0366-find-leaves-of-binary-tree) |
 | [0399-evaluate-division](https://github.com/ghost9933/DSA/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/ghost9933/DSA/tree/master/0437-path-sum-iii) |
 | [0545-boundary-of-binary-tree](https://github.com/ghost9933/DSA/tree/master/0545-boundary-of-binary-tree) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0270-closest-binary-search-tree-value](https://github.com/ghost9933/DSA/tree/master/0270-closest-binary-search-tree-value) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ghost9933/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/ghost9933/DSA/tree/master/0298-binary-tree-longest-consecutive-sequence) |
+| [0366-find-leaves-of-binary-tree](https://github.com/ghost9933/DSA/tree/master/0366-find-leaves-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/ghost9933/DSA/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/ghost9933/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0545-boundary-of-binary-tree](https://github.com/ghost9933/DSA/tree/master/0545-boundary-of-binary-tree) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0270-closest-binary-search-tree-value](https://github.com/ghost9933/DSA/tree/master/0270-closest-binary-search-tree-value) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ghost9933/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/ghost9933/DSA/tree/master/0298-binary-tree-longest-consecutive-sequence) |
+| [0366-find-leaves-of-binary-tree](https://github.com/ghost9933/DSA/tree/master/0366-find-leaves-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/ghost9933/DSA/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/ghost9933/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0545-boundary-of-binary-tree](https://github.com/ghost9933/DSA/tree/master/0545-boundary-of-binary-tree) |
