@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0339-nested-list-weight-sum](https://github.com/ghost9933/DSA/tree/master/0339-nested-list-weight-sum) |
 | [0399-evaluate-division](https://github.com/ghost9933/DSA/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/ghost9933/DSA/tree/master/0437-path-sum-iii) |
+| [0545-boundary-of-binary-tree](https://github.com/ghost9933/DSA/tree/master/0545-boundary-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ghost9933/DSA/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/ghost9933/DSA/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/ghost9933/DSA/tree/master/0854-making-a-large-island) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/ghost9933/DSA/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0437-path-sum-iii](https://github.com/ghost9933/DSA/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/ghost9933/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0545-boundary-of-binary-tree](https://github.com/ghost9933/DSA/tree/master/0545-boundary-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ghost9933/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ghost9933/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/ghost9933/DSA/tree/master/0904-leaf-similar-trees) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/ghost9933/DSA/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0437-path-sum-iii](https://github.com/ghost9933/DSA/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/ghost9933/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0545-boundary-of-binary-tree](https://github.com/ghost9933/DSA/tree/master/0545-boundary-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ghost9933/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ghost9933/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/ghost9933/DSA/tree/master/0904-leaf-similar-trees) |
