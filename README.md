@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/ghost9933/DSA/tree/master/0817-design-hashmap) |
 | [0854-making-a-large-island](https://github.com/ghost9933/DSA/tree/master/0854-making-a-large-island) |
 | [0907-koko-eating-bananas](https://github.com/ghost9933/DSA/tree/master/0907-koko-eating-bananas) |
+| [1014-k-closest-points-to-origin](https://github.com/ghost9933/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/ghost9933/DSA/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/ghost9933/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1074-high-five](https://github.com/ghost9933/DSA/tree/master/1074-high-five) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/ghost9933/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0492-construct-the-rectangle](https://github.com/ghost9933/DSA/tree/master/0492-construct-the-rectangle) |
 | [0785-basic-calculator-iii](https://github.com/MhatreNikhil36/DSA/tree/master/0785-basic-calculator-iii) |
+| [1014-k-closest-points-to-origin](https://github.com/ghost9933/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1069-confusing-number](https://github.com/ghost9933/DSA/tree/master/1069-confusing-number) |
 | [1119-robot-bounded-in-circle](https://github.com/ghost9933/DSA/tree/master/1119-robot-bounded-in-circle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ghost9933/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0280-wiggle-sort](https://github.com/ghost9933/DSA/tree/master/0280-wiggle-sort) |
 | [0435-non-overlapping-intervals](https://github.com/ghost9933/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ghost9933/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1014-k-closest-points-to-origin](https://github.com/ghost9933/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1074-high-five](https://github.com/ghost9933/DSA/tree/master/1074-high-five) |
 | [1397-search-suggestions-system](https://github.com/ghost9933/DSA/tree/master/1397-search-suggestions-system) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ghost9933/DSA/tree/master/1777-determine-if-two-strings-are-close) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ghost9933/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/ghost9933/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1074-high-five](https://github.com/ghost9933/DSA/tree/master/1074-high-five) |
 | [1270-dinner-plate-stacks](https://github.com/ghost9933/DSA/tree/master/1270-dinner-plate-stacks) |
 | [1397-search-suggestions-system](https://github.com/ghost9933/DSA/tree/master/1397-search-suggestions-system) |
@@ -730,12 +734,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ghost9933/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/ghost9933/DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ghost9933/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/ghost9933/DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Shortest Path
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/ghost9933/DSA/tree/master/0399-evaluate-division) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/ghost9933/DSA/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
