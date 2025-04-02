@@ -629,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ghost9933/DSA/tree/master/0207-course-schedule) |
 | [0277-find-the-celebrity](https://github.com/ghost9933/DSA/tree/master/0277-find-the-celebrity) |
 | [0399-evaluate-division](https://github.com/ghost9933/DSA/tree/master/0399-evaluate-division) |
+| [0511-all-paths-from-source-lead-to-destination](https://github.com/ghost9933/DSA/tree/master/0511-all-paths-from-source-lead-to-destination) |
 | [0547-number-of-provinces](https://github.com/ghost9933/DSA/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/ghost9933/DSA/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/ghost9933/DSA/tree/master/0871-keys-and-rooms) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ghost9933/DSA/tree/master/0207-course-schedule) |
+| [0511-all-paths-from-source-lead-to-destination](https://github.com/ghost9933/DSA/tree/master/0511-all-paths-from-source-lead-to-destination) |
 ## Monotonic Stack
 |  |
 | ------- |
