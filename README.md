@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ghost9933/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/ghost9933/DSA/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ghost9933/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1271-web-crawler](https://github.com/ghost9933/DSA/tree/master/1271-web-crawler) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/ghost9933/DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ghost9933/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ghost9933/DSA/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ghost9933/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/ghost9933/DSA/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ghost9933/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1271-web-crawler](https://github.com/ghost9933/DSA/tree/master/1271-web-crawler) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ghost9933/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ghost9933/DSA/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/ghost9933/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1119-robot-bounded-in-circle](https://github.com/ghost9933/DSA/tree/master/1119-robot-bounded-in-circle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ghost9933/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/ghost9933/DSA/tree/master/1250-longest-common-subsequence) |
+| [1271-web-crawler](https://github.com/ghost9933/DSA/tree/master/1271-web-crawler) |
 | [1345-perform-string-shifts](https://github.com/ghost9933/DSA/tree/master/1345-perform-string-shifts) |
 | [1397-search-suggestions-system](https://github.com/ghost9933/DSA/tree/master/1397-search-suggestions-system) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ghost9933/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -740,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0277-find-the-celebrity](https://github.com/ghost9933/DSA/tree/master/0277-find-the-celebrity) |
 | [0374-guess-number-higher-or-lower](https://github.com/ghost9933/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [1271-web-crawler](https://github.com/ghost9933/DSA/tree/master/1271-web-crawler) |
 ## Combinatorics
 |  |
 | ------- |
