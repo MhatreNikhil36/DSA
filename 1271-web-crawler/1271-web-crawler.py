@@ -27,10 +27,10 @@ class Solution:
         base=extract_base_url(startUrl)
         n=len(base)
         def basecrawl(seen,current):
-            print(seen,current)
+            # print(seen,current)
             new=htmlParser.getUrls(current)
             for x in new:
-                print(' '*5,x)
+                # print(' '*5,x)
                 if x not in seen and x[:n]==base:
                     seen.add(x)
                     basecrawl(seen,x)
@@ -38,6 +38,6 @@ class Solution:
             return
         links=set()
         links.add(startUrl)
-        print(links)
+        # print(links)
         basecrawl(links,startUrl)
         return list(links)
