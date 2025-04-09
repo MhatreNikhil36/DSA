@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/ghost9933/DSA/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/ghost9933/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1074-high-five](https://github.com/ghost9933/DSA/tree/master/1074-high-five) |
+| [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/MhatreNikhil36/DSA/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/ghost9933/DSA/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1200-remove-interval](https://github.com/ghost9933/DSA/tree/master/1200-remove-interval) |
 | [1319-unique-number-of-occurrences](https://github.com/ghost9933/DSA/tree/master/1319-unique-number-of-occurrences) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ghost9933/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1014-k-closest-points-to-origin](https://github.com/ghost9933/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1074-high-five](https://github.com/ghost9933/DSA/tree/master/1074-high-five) |
+| [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/MhatreNikhil36/DSA/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1397-search-suggestions-system](https://github.com/ghost9933/DSA/tree/master/1397-search-suggestions-system) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ghost9933/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ghost9933/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ghost9933/DSA/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/ghost9933/DSA/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/ghost9933/DSA/tree/master/0854-making-a-large-island) |
+| [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/MhatreNikhil36/DSA/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ghost9933/DSA/tree/master/2121-find-if-path-exists-in-graph) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/ghost9933/DSA/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Graph
