@@ -17,7 +17,7 @@ class uf:
         a=self.find(x)
         b=self.find(y)
         if a==b:
-            print('already linked',self.parent)
+            # print('already linked',self.parent)
             return False
         if self.rank[a]>self.rank[b]:
             self.parent[b]=a
@@ -27,7 +27,7 @@ class uf:
             self.parent[a]=b
             self.rank[b]+=1
         self.count-=1
-        print(self.parent)
+        # print(self.parent)
         if self.count==1:
             return True
         return False
@@ -40,7 +40,7 @@ class Solution:
         while logs:
 
             time,x,y=heapq.heappop(logs)
-            print(time,x,y)
+            # print(time,x,y)
             known=friends.union(x,y)
             if known:
                 return time 
