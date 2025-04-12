@@ -4,7 +4,9 @@ class Solution:
         s=[]
         min=-inf
         for x in preorder:
+
             while len(s)>0  and s[-1]<x:
+                print(s,min)
                 min=s.pop()
             if x<=min:
                 return False
