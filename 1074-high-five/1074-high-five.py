@@ -9,7 +9,7 @@ class Solution:
                 students[xId]=[]
                 heapq.heapify(students[xId])
                 heapq.heappush(id,xId)
-            print(xId,students[xId])
+            # print(xId,students[xId])
             if len(students[xId])>=5:
                 if  xScore>students[xId][0]:
                     heapq.heappop(students[xId])
