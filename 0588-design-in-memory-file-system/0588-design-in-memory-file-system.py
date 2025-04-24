@@ -6,7 +6,7 @@ class FileSystem:
         
 
     def ls(self, path: str) -> List[str]:
-        print('ls for path; ',path)
+        # print('ls for path; ',path)
         croot=self.root
         if path[0]=='/':
             if '/' not in croot:
@@ -15,12 +15,12 @@ class FileSystem:
                 croot=croot['/']
         path=path[1:]
         fDir=path.split('/')
-        print('fDir',fDir,croot)
+        # print('fDir',fDir,croot)
         for f in fDir:
             if f=='':
                 break
             if f not in croot:
-                print('ls',croot )
+                # print('ls',croot )
                 return []
             if type(croot[f])==str:
                 return [f]
@@ -37,16 +37,16 @@ class FileSystem:
                 croot['/']={}
             
             croot=croot['/']
-        print(croot)
+        # print(croot)
         path=path[1:]
         fDir=path.split('/')
-        print(path)
+        # print(path)
     
         for f in fDir:
             if f not in croot:
                 croot[f]={}
             croot=croot[f]
-        print('mkdir',self.root)
+        # print('mkdir',self.root)
 
         
 
@@ -59,8 +59,8 @@ class FileSystem:
         filePath=filePath[1:]
         fDir=filePath.split('/')
         x=fDir.pop()
-        print('add content',filePath,content)
-        print(x,croot)
+        # print('add content',filePath,content)
+        # print(x,croot)
         for f in fDir:
             if f=='':
                 break
