@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/ghost9933/DSA/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/ghost9933/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ghost9933/DSA/tree/master/0567-permutation-in-string) |
+| [0588-design-in-memory-file-system](https://github.com/ghost9933/DSA/tree/master/0588-design-in-memory-file-system) |
 | [0616-add-bold-tag-in-string](https://github.com/ghost9933/DSA/tree/master/0616-add-bold-tag-in-string) |
 | [0762-find-anagram-mappings](https://github.com/ghost9933/DSA/tree/master/0762-find-anagram-mappings) |
 | [0816-design-hashset](https://github.com/ghost9933/DSA/tree/master/0816-design-hashset) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0484-find-permutation](https://github.com/MhatreNikhil36/DSA/tree/master/0484-find-permutation) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ghost9933/DSA/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/ghost9933/DSA/tree/master/0567-permutation-in-string) |
+| [0588-design-in-memory-file-system](https://github.com/ghost9933/DSA/tree/master/0588-design-in-memory-file-system) |
 | [0616-add-bold-tag-in-string](https://github.com/ghost9933/DSA/tree/master/0616-add-bold-tag-in-string) |
 | [0647-palindromic-substrings](https://github.com/ghost9933/DSA/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/ghost9933/DSA/tree/master/0649-dota2-senate) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0280-wiggle-sort](https://github.com/ghost9933/DSA/tree/master/0280-wiggle-sort) |
 | [0435-non-overlapping-intervals](https://github.com/ghost9933/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ghost9933/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0588-design-in-memory-file-system](https://github.com/ghost9933/DSA/tree/master/0588-design-in-memory-file-system) |
 | [1014-k-closest-points-to-origin](https://github.com/ghost9933/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1074-high-five](https://github.com/ghost9933/DSA/tree/master/1074-high-five) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/MhatreNikhil36/DSA/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ghost9933/DSA/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/ghost9933/DSA/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/ghost9933/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0588-design-in-memory-file-system](https://github.com/ghost9933/DSA/tree/master/0588-design-in-memory-file-system) |
 | [0616-add-bold-tag-in-string](https://github.com/ghost9933/DSA/tree/master/0616-add-bold-tag-in-string) |
 | [1397-search-suggestions-system](https://github.com/ghost9933/DSA/tree/master/1397-search-suggestions-system) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ghost9933/DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -554,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/ghost9933/DSA/tree/master/0355-design-twitter) |
 | [0362-design-hit-counter](https://github.com/ghost9933/DSA/tree/master/0362-design-hit-counter) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ghost9933/DSA/tree/master/0535-encode-and-decode-tinyurl) |
+| [0588-design-in-memory-file-system](https://github.com/ghost9933/DSA/tree/master/0588-design-in-memory-file-system) |
 | [0816-design-hashset](https://github.com/ghost9933/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ghost9933/DSA/tree/master/0817-design-hashmap) |
 | [0937-online-stock-span](https://github.com/ghost9933/DSA/tree/master/0937-online-stock-span) |
