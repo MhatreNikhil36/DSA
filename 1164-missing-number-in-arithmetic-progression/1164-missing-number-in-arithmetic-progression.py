@@ -8,8 +8,7 @@ class Solution:
         r=n-1
         m=None
         while l<r:
-            
-            print(l,m,r)
+
             m=(l+r)//2
             if arr[m]==(s+m*d):
                 l=m+1
