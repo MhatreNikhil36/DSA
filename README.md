@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-high-five](https://github.com/ghost9933/DSA/tree/master/1074-high-five) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/MhatreNikhil36/DSA/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/ghost9933/DSA/tree/master/1143-find-smallest-common-element-in-all-rows) |
+| [1164-missing-number-in-arithmetic-progression](https://github.com/ghost9933/DSA/tree/master/1164-missing-number-in-arithmetic-progression) |
 | [1200-remove-interval](https://github.com/ghost9933/DSA/tree/master/1200-remove-interval) |
 | [1319-unique-number-of-occurrences](https://github.com/ghost9933/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1345-perform-string-shifts](https://github.com/ghost9933/DSA/tree/master/1345-perform-string-shifts) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1069-confusing-number](https://github.com/ghost9933/DSA/tree/master/1069-confusing-number) |
 | [1119-robot-bounded-in-circle](https://github.com/ghost9933/DSA/tree/master/1119-robot-bounded-in-circle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ghost9933/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1164-missing-number-in-arithmetic-progression](https://github.com/ghost9933/DSA/tree/master/1164-missing-number-in-arithmetic-progression) |
 | [1236-n-th-tribonacci-number](https://github.com/ghost9933/DSA/tree/master/1236-n-th-tribonacci-number) |
 | [1345-perform-string-shifts](https://github.com/ghost9933/DSA/tree/master/1345-perform-string-shifts) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ghost9933/DSA/tree/master/1477-product-of-the-last-k-numbers) |
