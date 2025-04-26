@@ -4,7 +4,16 @@ class Solution:
         s=arr[0]
         e=arr[-1]
         d=(e-s)//(n)
-        for i in range(n):
-            if arr[i]!=s+(i*d):
-                return s+(i*d)
-        return arr[i]
+        l=0
+        r=n-1
+        m=None
+        while l<r:
+            
+            print(l,m,r)
+            m=(l+r)//2
+            if arr[m]==(s+m*d):
+                l=m+1
+            else:
+                r=m
+            
+        return s+l*d
