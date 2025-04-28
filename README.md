@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/ghost9933/DSA/tree/master/0437-path-sum-iii) |
 | [0545-boundary-of-binary-tree](https://github.com/ghost9933/DSA/tree/master/0545-boundary-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ghost9933/DSA/tree/master/0547-number-of-provinces) |
+| [0694-number-of-distinct-islands](https://github.com/ghost9933/DSA/tree/master/0694-number-of-distinct-islands) |
 | [0801-is-graph-bipartite](https://github.com/ghost9933/DSA/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/ghost9933/DSA/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/ghost9933/DSA/tree/master/0871-keys-and-rooms) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0339-nested-list-weight-sum](https://github.com/ghost9933/DSA/tree/master/0339-nested-list-weight-sum) |
 | [0399-evaluate-division](https://github.com/ghost9933/DSA/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ghost9933/DSA/tree/master/0547-number-of-provinces) |
+| [0694-number-of-distinct-islands](https://github.com/ghost9933/DSA/tree/master/0694-number-of-distinct-islands) |
 | [0801-is-graph-bipartite](https://github.com/ghost9933/DSA/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/ghost9933/DSA/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/ghost9933/DSA/tree/master/0871-keys-and-rooms) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ghost9933/DSA/tree/master/0567-permutation-in-string) |
 | [0588-design-in-memory-file-system](https://github.com/ghost9933/DSA/tree/master/0588-design-in-memory-file-system) |
 | [0616-add-bold-tag-in-string](https://github.com/ghost9933/DSA/tree/master/0616-add-bold-tag-in-string) |
+| [0694-number-of-distinct-islands](https://github.com/ghost9933/DSA/tree/master/0694-number-of-distinct-islands) |
 | [0762-find-anagram-mappings](https://github.com/ghost9933/DSA/tree/master/0762-find-anagram-mappings) |
 | [0816-design-hashset](https://github.com/ghost9933/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ghost9933/DSA/tree/master/0817-design-hashmap) |
@@ -670,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0305-number-of-islands-ii](https://github.com/ghost9933/DSA/tree/master/0305-number-of-islands-ii) |
 | [0399-evaluate-division](https://github.com/ghost9933/DSA/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ghost9933/DSA/tree/master/0547-number-of-provinces) |
+| [0694-number-of-distinct-islands](https://github.com/ghost9933/DSA/tree/master/0694-number-of-distinct-islands) |
 | [0801-is-graph-bipartite](https://github.com/ghost9933/DSA/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/ghost9933/DSA/tree/master/0854-making-a-large-island) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/MhatreNikhil36/DSA/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
@@ -692,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/ghost9933/DSA/tree/master/0535-encode-and-decode-tinyurl) |
+| [0694-number-of-distinct-islands](https://github.com/ghost9933/DSA/tree/master/0694-number-of-distinct-islands) |
 | [0816-design-hashset](https://github.com/ghost9933/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ghost9933/DSA/tree/master/0817-design-hashmap) |
 ## String Matching
