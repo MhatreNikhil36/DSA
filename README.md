@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/ghost9933/DSA/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/ghost9933/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ghost9933/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0604-design-compressed-string-iterator](https://github.com/ghost9933/DSA/tree/master/0604-design-compressed-string-iterator) |
 | [0605-can-place-flowers](https://github.com/ghost9933/DSA/tree/master/0605-can-place-flowers) |
 | [0616-add-bold-tag-in-string](https://github.com/ghost9933/DSA/tree/master/0616-add-bold-tag-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/ghost9933/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/ghost9933/DSA/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/ghost9933/DSA/tree/master/0567-permutation-in-string) |
 | [0588-design-in-memory-file-system](https://github.com/ghost9933/DSA/tree/master/0588-design-in-memory-file-system) |
+| [0604-design-compressed-string-iterator](https://github.com/ghost9933/DSA/tree/master/0604-design-compressed-string-iterator) |
 | [0616-add-bold-tag-in-string](https://github.com/ghost9933/DSA/tree/master/0616-add-bold-tag-in-string) |
 | [0647-palindromic-substrings](https://github.com/ghost9933/DSA/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/ghost9933/DSA/tree/master/0649-dota2-senate) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0362-design-hit-counter](https://github.com/ghost9933/DSA/tree/master/0362-design-hit-counter) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ghost9933/DSA/tree/master/0535-encode-and-decode-tinyurl) |
 | [0588-design-in-memory-file-system](https://github.com/ghost9933/DSA/tree/master/0588-design-in-memory-file-system) |
+| [0604-design-compressed-string-iterator](https://github.com/ghost9933/DSA/tree/master/0604-design-compressed-string-iterator) |
 | [0816-design-hashset](https://github.com/ghost9933/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ghost9933/DSA/tree/master/0817-design-hashmap) |
 | [0937-online-stock-span](https://github.com/ghost9933/DSA/tree/master/0937-online-stock-span) |
@@ -806,4 +809,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/ghost9933/DSA/tree/master/1014-k-closest-points-to-origin) |
+## Iterator
+|  |
+| ------- |
+| [0604-design-compressed-string-iterator](https://github.com/ghost9933/DSA/tree/master/0604-design-compressed-string-iterator) |
 <!---LeetCode Topics End-->
