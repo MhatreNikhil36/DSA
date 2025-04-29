@@ -16,7 +16,7 @@ class StringIterator:
                 x=self.comp.popleft()
                 self.currc=(self.currc*(10**p))+int(x)
                 p+=1
-        print(self.currc)
+        # print(self.currc)
         self.currc-=1
         return self.currs
     
@@ -24,8 +24,6 @@ class StringIterator:
         if x in {'0','1','2','3','4','5','6','7','8','9'}:
             return True
         return False
-
-
         
 
     def hasNext(self) -> bool:
