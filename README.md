@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/ghost9933/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/ghost9933/DSA/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/ghost9933/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1059-missing-element-in-sorted-array](https://github.com/ghost9933/DSA/tree/master/1059-missing-element-in-sorted-array) |
 | [1074-high-five](https://github.com/ghost9933/DSA/tree/master/1074-high-five) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/MhatreNikhil36/DSA/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/ghost9933/DSA/tree/master/1143-find-smallest-common-element-in-all-rows) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/ghost9933/DSA/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/ghost9933/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1051-shortest-way-to-form-string](https://github.com/ghost9933/DSA/tree/master/1051-shortest-way-to-form-string) |
+| [1059-missing-element-in-sorted-array](https://github.com/ghost9933/DSA/tree/master/1059-missing-element-in-sorted-array) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/ghost9933/DSA/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1150-two-sum-bsts](https://github.com/ghost9933/DSA/tree/master/1150-two-sum-bsts) |
 | [1397-search-suggestions-system](https://github.com/ghost9933/DSA/tree/master/1397-search-suggestions-system) |
