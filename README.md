@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0272-closest-binary-search-tree-value-ii](https://github.com/ghost9933/DSA/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ghost9933/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/ghost9933/DSA/tree/master/0298-binary-tree-longest-consecutive-sequence) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/ghost9933/DSA/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0339-nested-list-weight-sum](https://github.com/ghost9933/DSA/tree/master/0339-nested-list-weight-sum) |
 | [0366-find-leaves-of-binary-tree](https://github.com/ghost9933/DSA/tree/master/0366-find-leaves-of-binary-tree) |
 | [0399-evaluate-division](https://github.com/ghost9933/DSA/tree/master/0399-evaluate-division) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ghost9933/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0207-course-schedule](https://github.com/ghost9933/DSA/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ghost9933/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/ghost9933/DSA/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0339-nested-list-weight-sum](https://github.com/ghost9933/DSA/tree/master/0339-nested-list-weight-sum) |
 | [0399-evaluate-division](https://github.com/ghost9933/DSA/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ghost9933/DSA/tree/master/0547-number-of-provinces) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0266-palindrome-permutation](https://github.com/ghost9933/DSA/tree/master/0266-palindrome-permutation) |
 | [0305-number-of-islands-ii](https://github.com/ghost9933/DSA/tree/master/0305-number-of-islands-ii) |
 | [0311-sparse-matrix-multiplication](https://github.com/MhatreNikhil36/DSA/tree/master/0311-sparse-matrix-multiplication) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/ghost9933/DSA/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/ghost9933/DSA/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0355-design-twitter](https://github.com/ghost9933/DSA/tree/master/0355-design-twitter) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ghost9933/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ghost9933/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ghost9933/DSA/tree/master/0242-valid-anagram) |
 | [0280-wiggle-sort](https://github.com/ghost9933/DSA/tree/master/0280-wiggle-sort) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/ghost9933/DSA/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0435-non-overlapping-intervals](https://github.com/ghost9933/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ghost9933/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0588-design-in-memory-file-system](https://github.com/ghost9933/DSA/tree/master/0588-design-in-memory-file-system) |
@@ -544,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0272-closest-binary-search-tree-value-ii](https://github.com/ghost9933/DSA/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ghost9933/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/ghost9933/DSA/tree/master/0298-binary-tree-longest-consecutive-sequence) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/ghost9933/DSA/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0366-find-leaves-of-binary-tree](https://github.com/ghost9933/DSA/tree/master/0366-find-leaves-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/ghost9933/DSA/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/ghost9933/DSA/tree/master/0450-delete-node-in-a-bst) |
@@ -589,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0272-closest-binary-search-tree-value-ii](https://github.com/ghost9933/DSA/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ghost9933/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/ghost9933/DSA/tree/master/0298-binary-tree-longest-consecutive-sequence) |
+| [0314-binary-tree-vertical-order-traversal](https://github.com/ghost9933/DSA/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0366-find-leaves-of-binary-tree](https://github.com/ghost9933/DSA/tree/master/0366-find-leaves-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/ghost9933/DSA/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/ghost9933/DSA/tree/master/0450-delete-node-in-a-bst) |
