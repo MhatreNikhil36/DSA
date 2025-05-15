@@ -703,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ghost9933/DSA/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/ghost9933/DSA/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/ghost9933/DSA/tree/master/0871-keys-and-rooms) |
+| [1101-parallel-courses](https://github.com/ghost9933/DSA/tree/master/1101-parallel-courses) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ghost9933/DSA/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ghost9933/DSA/tree/master/2121-find-if-path-exists-in-graph) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/ghost9933/DSA/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -767,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/ghost9933/DSA/tree/master/0207-course-schedule) |
 | [0511-all-paths-from-source-lead-to-destination](https://github.com/ghost9933/DSA/tree/master/0511-all-paths-from-source-lead-to-destination) |
+| [1101-parallel-courses](https://github.com/ghost9933/DSA/tree/master/1101-parallel-courses) |
 ## Monotonic Stack
 |  |
 | ------- |
