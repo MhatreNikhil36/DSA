@@ -1,43 +1,53 @@
-from collections import defaultdict, deque
-from typing import List
-
 class Solution:
     def alienOrder(self, words: List[str]) -> str:
-        graph = defaultdict(set)
-        ind = dict()
-
-        # Initialize all characters with in-degree 0
+        graph=defaultdict(set)
+        ind=OrderedDict()
         for word in words:
             for c in word:
                 if c not in ind:
                     ind[c] = 0
+        for i in range(len(words)-1):
+            a=words[i]
+            b=words[i+1]
 
-        # Build graph
-        for i in range(len(words) - 1):
-            a, b = words[i], words[i+1]
-
-            # Invalid case: prefix rule
+            n=min(len(a),len(b))
             if len(a) > len(b) and a.startswith(b):
                 return ""
-
-            for j in range(min(len(a), len(b))):
-                if a[j] != b[j]:
-                    if b[j] not in graph[a[j]]:
-                        graph[a[j]].add(b[j])
-                        ind[b[j]] += 1
+            for s in range(n):
+                if a[s]!=b[s]:
+                    if a[s] not in ind:
+                        ind[a[s]]=0
+                    if b[s] not in ind:
+                        ind[b[s]]=0
+                    if b[s] not in graph[a[s]]:
+                        ind[b[s]]+=1
+                        graph[a[s]].add(b[s])
                     break
 
-        return self.sortgraph(ind, graph)
+        print(graph,ind)
+        ans=self.sortgraph(ind,graph)
+        return ans
+        
+    
+    def sortgraph(self,ind,graph:dict)->str:
 
-    def sortgraph(self, ind, graph: dict) -> str:
-        q = deque([c for c in ind if ind[c] == 0])
-        order = ''
+        q=deque()
+        for x in ind:
+            if ind[x]==0:
+                q.append(x)
+        rem=len(ind)
+        order=''
         while q:
-            c = q.popleft()
-            order += c
-            for nei in graph[c]:
-                ind[nei] -= 1
-                if ind[nei] == 0:
-                    q.append(nei)
+            for i in range(len(q)):
+                x=q.popleft()
+                order+=x
+                rem-=1
+                for y in graph[x]:
+                    ind[y]-=1
+                    if ind[y]==0:
+                        q.append(y)
+        print('final',order)
+        if len(order)!=len(ind):
+            return ""
+        return order
 
-        return order if len(order) == len(ind) else ""
