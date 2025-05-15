@@ -1,38 +1,43 @@
+from collections import defaultdict, deque
+from typing import List
+
 class Solution:
     def alienOrder(self, words: List[str]) -> str:
-        adjlist={c:set() for word in words for c in word}
-        # print(adjlist)
+        graph = defaultdict(set)
+        ind = dict()
 
-        for i in range(len(words)-1):
-            x=words[i]
-            y=words[i+1]
-            m=len(x)
-            n=len(y)
-            minLen=min(m,n)
-            if m>n and x[:minLen]==y[:minLen]:
-                # print('conditon violated ')
+        # Initialize all characters with in-degree 0
+        for word in words:
+            for c in word:
+                if c not in ind:
+                    ind[c] = 0
+
+        # Build graph
+        for i in range(len(words) - 1):
+            a, b = words[i], words[i+1]
+
+            # Invalid case: prefix rule
+            if len(a) > len(b) and a.startswith(b):
                 return ""
 
-            for j in range(minLen):
-                if x[j]!=y[j]:
+            for j in range(min(len(a), len(b))):
+                if a[j] != b[j]:
+                    if b[j] not in graph[a[j]]:
+                        graph[a[j]].add(b[j])
+                        ind[b[j]] += 1
                     break
-            if x[j]!=y[j]:
-                adjlist[x[j]].add(y[j])
-        
-        visited={}
-        res=[]
-        def dfs(c):
-            if c in visited:
-                return visited[c]
-            visited[c]=True
-            for x in adjlist[c]:
-                if dfs(x):
-                    return True
-            visited[c]=False
-            res.append(c) 
-        for c in adjlist:
-            if dfs(c):
-                return ""
-    
-        res.reverse()
-        return ''.join(res) 
+
+        return self.sortgraph(ind, graph)
+
+    def sortgraph(self, ind, graph: dict) -> str:
+        q = deque([c for c in ind if ind[c] == 0])
+        order = ''
+        while q:
+            c = q.popleft()
+            order += c
+            for nei in graph[c]:
+                ind[nei] -= 1
+                if ind[nei] == 0:
+                    q.append(nei)
+
+        return order if len(order) == len(ind) else ""
