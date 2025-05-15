@@ -14,14 +14,13 @@ class Solution:
             if ind[x]==0:
                 q.append(x)
         sem=0
-        seen=set()
+        # seen=set()
         while q:
             sem+=1
             n=len(q)
             for i in range(n):
                 x=q.popleft()
                 if ind[x]==0:
-                    seen.add(x)
                     rem-=1
                     for y in d[x]:
                             ind[y]-=1
