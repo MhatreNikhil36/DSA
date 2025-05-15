@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ghost9933/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0207-course-schedule](https://github.com/ghost9933/DSA/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ghost9933/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0269-alien-dictionary](https://github.com/ghost9933/DSA/tree/master/0269-alien-dictionary) |
 | [0270-closest-binary-search-tree-value](https://github.com/ghost9933/DSA/tree/master/0270-closest-binary-search-tree-value) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/ghost9933/DSA/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ghost9933/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ghost9933/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ghost9933/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0207-course-schedule](https://github.com/ghost9933/DSA/tree/master/0207-course-schedule) |
+| [0269-alien-dictionary](https://github.com/ghost9933/DSA/tree/master/0269-alien-dictionary) |
 | [0286-walls-and-gates](https://github.com/ghost9933/DSA/tree/master/0286-walls-and-gates) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ghost9933/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/ghost9933/DSA/tree/master/0314-binary-tree-vertical-order-traversal) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ghost9933/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ghost9933/DSA/tree/master/0238-product-of-array-except-self) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/ghost9933/DSA/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
+| [0269-alien-dictionary](https://github.com/ghost9933/DSA/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/ghost9933/DSA/tree/master/0271-encode-and-decode-strings) |
 | [0280-wiggle-sort](https://github.com/ghost9933/DSA/tree/master/0280-wiggle-sort) |
 | [0283-move-zeroes](https://github.com/ghost9933/DSA/tree/master/0283-move-zeroes) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/ghost9933/DSA/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/ghost9933/DSA/tree/master/0242-valid-anagram) |
 | [0266-palindrome-permutation](https://github.com/ghost9933/DSA/tree/master/0266-palindrome-permutation) |
+| [0269-alien-dictionary](https://github.com/ghost9933/DSA/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/ghost9933/DSA/tree/master/0271-encode-and-decode-strings) |
 | [0282-expression-add-operators](https://github.com/ghost9933/DSA/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ghost9933/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -697,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ghost9933/DSA/tree/master/0207-course-schedule) |
+| [0269-alien-dictionary](https://github.com/ghost9933/DSA/tree/master/0269-alien-dictionary) |
 | [0277-find-the-celebrity](https://github.com/ghost9933/DSA/tree/master/0277-find-the-celebrity) |
 | [0399-evaluate-division](https://github.com/ghost9933/DSA/tree/master/0399-evaluate-division) |
 | [0511-all-paths-from-source-lead-to-destination](https://github.com/ghost9933/DSA/tree/master/0511-all-paths-from-source-lead-to-destination) |
@@ -767,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ghost9933/DSA/tree/master/0207-course-schedule) |
+| [0269-alien-dictionary](https://github.com/ghost9933/DSA/tree/master/0269-alien-dictionary) |
 | [0511-all-paths-from-source-lead-to-destination](https://github.com/ghost9933/DSA/tree/master/0511-all-paths-from-source-lead-to-destination) |
 | [1101-parallel-courses](https://github.com/ghost9933/DSA/tree/master/1101-parallel-courses) |
 ## Monotonic Stack
