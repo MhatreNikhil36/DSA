@@ -24,7 +24,7 @@ class Solution:
                         graph[a[s]].add(b[s])
                     break
 
-        print(graph,ind)
+        # print(graph,ind)
         ans=self.sortgraph(ind,graph)
         return ans
         
