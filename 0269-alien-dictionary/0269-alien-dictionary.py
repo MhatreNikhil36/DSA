@@ -46,7 +46,7 @@ class Solution:
                     ind[y]-=1
                     if ind[y]==0:
                         q.append(y)
-        print('final',order)
+        # print('final',order)
         if len(order)!=len(ind):
             return ""
         return order
