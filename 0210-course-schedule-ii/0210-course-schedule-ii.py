@@ -12,8 +12,7 @@ class Solution:
             if y not in graph[x]:
                 ind[y]+=1
             graph[x].add(y)
-        print(graph)
-        print(ind)
+
         order=self.topSort(ind,graph)
         return order[::-1] 
 
