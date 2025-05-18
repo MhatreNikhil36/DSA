@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0272-closest-binary-search-tree-value-ii](https://github.com/ghost9933/DSA/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ghost9933/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0298-binary-tree-longest-consecutive-sequence](https://github.com/ghost9933/DSA/tree/master/0298-binary-tree-longest-consecutive-sequence) |
+| [0310-minimum-height-trees](https://github.com/ghost9933/DSA/tree/master/0310-minimum-height-trees) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/ghost9933/DSA/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0339-nested-list-weight-sum](https://github.com/ghost9933/DSA/tree/master/0339-nested-list-weight-sum) |
 | [0366-find-leaves-of-binary-tree](https://github.com/ghost9933/DSA/tree/master/0366-find-leaves-of-binary-tree) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/ghost9933/DSA/tree/master/0269-alien-dictionary) |
 | [0286-walls-and-gates](https://github.com/ghost9933/DSA/tree/master/0286-walls-and-gates) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ghost9933/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/ghost9933/DSA/tree/master/0310-minimum-height-trees) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/ghost9933/DSA/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0339-nested-list-weight-sum](https://github.com/ghost9933/DSA/tree/master/0339-nested-list-weight-sum) |
 | [0399-evaluate-division](https://github.com/ghost9933/DSA/tree/master/0399-evaluate-division) |
@@ -706,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ghost9933/DSA/tree/master/0210-course-schedule-ii) |
 | [0269-alien-dictionary](https://github.com/ghost9933/DSA/tree/master/0269-alien-dictionary) |
 | [0277-find-the-celebrity](https://github.com/ghost9933/DSA/tree/master/0277-find-the-celebrity) |
+| [0310-minimum-height-trees](https://github.com/ghost9933/DSA/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/ghost9933/DSA/tree/master/0399-evaluate-division) |
 | [0511-all-paths-from-source-lead-to-destination](https://github.com/ghost9933/DSA/tree/master/0511-all-paths-from-source-lead-to-destination) |
 | [0547-number-of-provinces](https://github.com/ghost9933/DSA/tree/master/0547-number-of-provinces) |
@@ -777,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ghost9933/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ghost9933/DSA/tree/master/0210-course-schedule-ii) |
 | [0269-alien-dictionary](https://github.com/ghost9933/DSA/tree/master/0269-alien-dictionary) |
+| [0310-minimum-height-trees](https://github.com/ghost9933/DSA/tree/master/0310-minimum-height-trees) |
 | [0511-all-paths-from-source-lead-to-destination](https://github.com/ghost9933/DSA/tree/master/0511-all-paths-from-source-lead-to-destination) |
 | [1101-parallel-courses](https://github.com/ghost9933/DSA/tree/master/1101-parallel-courses) |
 ## Monotonic Stack
