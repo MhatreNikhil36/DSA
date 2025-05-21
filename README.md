@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/ghost9933/DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ghost9933/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ghost9933/DSA/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1650-find-root-of-n-ary-tree](https://github.com/ghost9933/DSA/tree/master/1650-find-root-of-n-ary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ghost9933/DSA/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1366-first-unique-number](https://github.com/ghost9933/DSA/tree/master/1366-first-unique-number) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ghost9933/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/MhatreNikhil36/DSA/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1650-find-root-of-n-ary-tree](https://github.com/ghost9933/DSA/tree/master/1650-find-root-of-n-ary-tree) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ghost9933/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/ghost9933/DSA/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ghost9933/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -571,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1150-two-sum-bsts](https://github.com/ghost9933/DSA/tree/master/1150-two-sum-bsts) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/ghost9933/DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ghost9933/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1650-find-root-of-n-ary-tree](https://github.com/ghost9933/DSA/tree/master/1650-find-root-of-n-ary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/ghost9933/DSA/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Design
 |  |
@@ -653,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0266-palindrome-permutation](https://github.com/ghost9933/DSA/tree/master/0266-palindrome-permutation) |
 | [0338-counting-bits](https://github.com/ghost9933/DSA/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/ghost9933/DSA/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1650-find-root-of-n-ary-tree](https://github.com/ghost9933/DSA/tree/master/1650-find-root-of-n-ary-tree) |
 ## Linked List
 |  |
 | ------- |
