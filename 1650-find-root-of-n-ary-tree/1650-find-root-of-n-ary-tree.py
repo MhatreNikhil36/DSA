@@ -16,7 +16,7 @@ class Solution:
                 if y not in ind:
                     ind[y]=0
                 ind[y]+=1
-        print(ind)
+        # print(ind)
 
         for x in ind:
             if ind[x]==0:
