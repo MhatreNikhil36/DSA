@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ghost9933/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ghost9933/DSA/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1650-find-root-of-n-ary-tree](https://github.com/ghost9933/DSA/tree/master/1650-find-root-of-n-ary-tree) |
+| [1665-diameter-of-n-ary-tree](https://github.com/ghost9933/DSA/tree/master/1665-diameter-of-n-ary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ghost9933/DSA/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/ghost9933/DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ghost9933/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1650-find-root-of-n-ary-tree](https://github.com/ghost9933/DSA/tree/master/1650-find-root-of-n-ary-tree) |
+| [1665-diameter-of-n-ary-tree](https://github.com/ghost9933/DSA/tree/master/1665-diameter-of-n-ary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/ghost9933/DSA/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Design
 |  |
