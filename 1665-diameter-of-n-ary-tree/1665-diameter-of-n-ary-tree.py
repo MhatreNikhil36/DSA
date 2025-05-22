@@ -1,41 +1,28 @@
-"""
 # Definition for a Node.
 class Node:
     def __init__(self, val=None, children=None):
         self.val = val
         self.children = children if children is not None else []
-"""
+
 class Solution:
     def diameter(self, root: 'Node') -> int:
-        """
-        :type root: 'Node'
-        :rtype: int
-        """
-        diameter = 0
+        self.ans = 0
 
-        def maxDepth(node, curr_depth):
-            """ return the maximum depth of leaves nodes
-                 descending from the current node
-            """
-            nonlocal diameter
+        def dfs(node):
+            # returns height of subtree rooted at node
+            if not node:
+                return 0
+            max1, max2 = 0, 0
+            for c in node.children:
+                h = dfs(c)
+                if h > max1:
+                    max1, max2 = h, max1
+                elif h > max2:
+                    max2 = h
+            # update diameter: the two tallest child-subtrees passing through this node
+            self.ans = max(self.ans, max1 + max2)
+            # height of this node is tallest child + 1
+            return max1 + 1
 
-            if len(node.children) == 0:
-                return curr_depth
-            
-            # select the top 2 depths from its children
-            max_depth_1, max_depth_2 = curr_depth, 0
-            for child in node.children:
-                depth = maxDepth(child, curr_depth+1)
-                if depth > max_depth_1:
-                    max_depth_1, max_depth_2 = depth, max_depth_1
-                elif depth > max_depth_2:
-                    max_depth_2 = depth
-
-            # calculate the distance between the two farthest leaves nodes
-            distance = max_depth_1 + max_depth_2 - 2 * curr_depth
-            diameter = max(diameter, distance)
-
-            return max_depth_1
-
-        maxDepth(root, 0)
-        return diameter
+        dfs(root)
+        return self.ans
