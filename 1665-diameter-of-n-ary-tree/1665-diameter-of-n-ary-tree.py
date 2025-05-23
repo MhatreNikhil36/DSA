@@ -1,28 +1,33 @@
+"""
 # Definition for a Node.
 class Node:
-    def __init__(self, val=None, children=None):
+    def __init__(self, val: Optional[int] = None, children: Optional[List['Node']] = None):
         self.val = val
         self.children = children if children is not None else []
+"""
 
 class Solution:
     def diameter(self, root: 'Node') -> int:
-        self.ans = 0
-
-        def dfs(node):
-            # returns height of subtree rooted at node
-            if not node:
-                return 0
-            max1, max2 = 0, 0
-            for c in node.children:
-                h = dfs(c)
-                if h > max1:
-                    max1, max2 = h, max1
-                elif h > max2:
-                    max2 = h
-            # update diameter: the two tallest child-subtrees passing through this node
-            self.ans = max(self.ans, max1 + max2)
-            # height of this node is tallest child + 1
-            return max1 + 1
-
-        dfs(root)
-        return self.ans
+        depths=dict()
+        def dep(node,d):
+            if node.children==[]:
+                depths[node]=[d,0,0]
+                return d
+            d1=0
+            d2=0
+            for x in node.children:
+                h=dep(x,d+1)
+                if h>=d1:
+                    d2=d1
+                    d1=h
+                if h<d1 and h>d2:
+                    d2=h
+            depths[node]=[d,d1,d2]
+            return max(d1,d2)
+        ans=0
+        dep(root,0)
+        print(depths)
+        for x in depths:
+            ans=max(ans,depths[x][1]+depths[x][2]-(2*depths[x][0]))
+        return ans 
+        
