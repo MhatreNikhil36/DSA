@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/ghost9933/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/ghost9933/DSA/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/ghost9933/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1052-campus-bikes](https://github.com/ghost9933/DSA/tree/master/1052-campus-bikes) |
 | [1059-missing-element-in-sorted-array](https://github.com/ghost9933/DSA/tree/master/1059-missing-element-in-sorted-array) |
 | [1074-high-five](https://github.com/ghost9933/DSA/tree/master/1074-high-five) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/MhatreNikhil36/DSA/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0588-design-in-memory-file-system](https://github.com/ghost9933/DSA/tree/master/0588-design-in-memory-file-system) |
 | [0642-design-search-autocomplete-system](https://github.com/ghost9933/DSA/tree/master/0642-design-search-autocomplete-system) |
 | [1014-k-closest-points-to-origin](https://github.com/ghost9933/DSA/tree/master/1014-k-closest-points-to-origin) |
+| [1052-campus-bikes](https://github.com/ghost9933/DSA/tree/master/1052-campus-bikes) |
 | [1074-high-five](https://github.com/ghost9933/DSA/tree/master/1074-high-five) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/MhatreNikhil36/DSA/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1397-search-suggestions-system](https://github.com/ghost9933/DSA/tree/master/1397-search-suggestions-system) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0499-the-maze-iii](https://github.com/ghost9933/DSA/tree/master/0499-the-maze-iii) |
 | [0642-design-search-autocomplete-system](https://github.com/ghost9933/DSA/tree/master/0642-design-search-autocomplete-system) |
 | [1014-k-closest-points-to-origin](https://github.com/ghost9933/DSA/tree/master/1014-k-closest-points-to-origin) |
+| [1052-campus-bikes](https://github.com/ghost9933/DSA/tree/master/1052-campus-bikes) |
 | [1074-high-five](https://github.com/ghost9933/DSA/tree/master/1074-high-five) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/ghost9933/DSA/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1270-dinner-plate-stacks](https://github.com/ghost9933/DSA/tree/master/1270-dinner-plate-stacks) |
