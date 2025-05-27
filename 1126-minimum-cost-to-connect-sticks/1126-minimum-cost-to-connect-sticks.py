@@ -9,6 +9,6 @@ class Solution:
             x=heapq.heappop(sticks)
             y=heapq.heappop(sticks)
             cost+=x+y
-            print(x,y,cost)
+            # print(x,y,cost)
             heapq.heappush(sticks,x+y)
         return cost
