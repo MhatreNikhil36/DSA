@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0366-find-leaves-of-binary-tree](https://github.com/ghost9933/DSA/tree/master/0366-find-leaves-of-binary-tree) |
 | [0399-evaluate-division](https://github.com/ghost9933/DSA/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/ghost9933/DSA/tree/master/0437-path-sum-iii) |
+| [0499-the-maze-iii](https://github.com/ghost9933/DSA/tree/master/0499-the-maze-iii) |
 | [0545-boundary-of-binary-tree](https://github.com/ghost9933/DSA/tree/master/0545-boundary-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ghost9933/DSA/tree/master/0547-number-of-provinces) |
 | [0642-design-search-autocomplete-system](https://github.com/ghost9933/DSA/tree/master/0642-design-search-autocomplete-system) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0317-shortest-distance-from-all-buildings](https://github.com/ghost9933/DSA/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0339-nested-list-weight-sum](https://github.com/ghost9933/DSA/tree/master/0339-nested-list-weight-sum) |
 | [0399-evaluate-division](https://github.com/ghost9933/DSA/tree/master/0399-evaluate-division) |
+| [0499-the-maze-iii](https://github.com/ghost9933/DSA/tree/master/0499-the-maze-iii) |
 | [0547-number-of-provinces](https://github.com/ghost9933/DSA/tree/master/0547-number-of-provinces) |
 | [0694-number-of-distinct-islands](https://github.com/ghost9933/DSA/tree/master/0694-number-of-distinct-islands) |
 | [0801-is-graph-bipartite](https://github.com/ghost9933/DSA/tree/master/0801-is-graph-bipartite) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0484-find-permutation](https://github.com/MhatreNikhil36/DSA/tree/master/0484-find-permutation) |
 | [0487-max-consecutive-ones-ii](https://github.com/ghost9933/DSA/tree/master/0487-max-consecutive-ones-ii) |
 | [0494-target-sum](https://github.com/ghost9933/DSA/tree/master/0494-target-sum) |
+| [0499-the-maze-iii](https://github.com/ghost9933/DSA/tree/master/0499-the-maze-iii) |
 | [0523-continuous-subarray-sum](https://github.com/ghost9933/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ghost9933/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0604-design-compressed-string-iterator](https://github.com/ghost9933/DSA/tree/master/0604-design-compressed-string-iterator) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/ghost9933/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/ghost9933/DSA/tree/master/0443-string-compression) |
 | [0484-find-permutation](https://github.com/MhatreNikhil36/DSA/tree/master/0484-find-permutation) |
+| [0499-the-maze-iii](https://github.com/ghost9933/DSA/tree/master/0499-the-maze-iii) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ghost9933/DSA/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/ghost9933/DSA/tree/master/0567-permutation-in-string) |
 | [0588-design-in-memory-file-system](https://github.com/ghost9933/DSA/tree/master/0588-design-in-memory-file-system) |
@@ -349,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0286-walls-and-gates](https://github.com/ghost9933/DSA/tree/master/0286-walls-and-gates) |
 | [0311-sparse-matrix-multiplication](https://github.com/MhatreNikhil36/DSA/tree/master/0311-sparse-matrix-multiplication) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/ghost9933/DSA/tree/master/0317-shortest-distance-from-all-buildings) |
+| [0499-the-maze-iii](https://github.com/ghost9933/DSA/tree/master/0499-the-maze-iii) |
 | [0723-candy-crush](https://github.com/MhatreNikhil36/DSA/tree/master/0723-candy-crush) |
 | [0854-making-a-large-island](https://github.com/ghost9933/DSA/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/ghost9933/DSA/tree/master/1036-rotting-oranges) |
@@ -462,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ghost9933/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/ghost9933/DSA/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0355-design-twitter](https://github.com/ghost9933/DSA/tree/master/0355-design-twitter) |
+| [0499-the-maze-iii](https://github.com/ghost9933/DSA/tree/master/0499-the-maze-iii) |
 | [0642-design-search-autocomplete-system](https://github.com/ghost9933/DSA/tree/master/0642-design-search-autocomplete-system) |
 | [1014-k-closest-points-to-origin](https://github.com/ghost9933/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1074-high-five](https://github.com/ghost9933/DSA/tree/master/1074-high-five) |
@@ -733,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0277-find-the-celebrity](https://github.com/ghost9933/DSA/tree/master/0277-find-the-celebrity) |
 | [0310-minimum-height-trees](https://github.com/ghost9933/DSA/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/ghost9933/DSA/tree/master/0399-evaluate-division) |
+| [0499-the-maze-iii](https://github.com/ghost9933/DSA/tree/master/0499-the-maze-iii) |
 | [0511-all-paths-from-source-lead-to-destination](https://github.com/ghost9933/DSA/tree/master/0511-all-paths-from-source-lead-to-destination) |
 | [0547-number-of-provinces](https://github.com/ghost9933/DSA/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/ghost9933/DSA/tree/master/0801-is-graph-bipartite) |
@@ -858,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/ghost9933/DSA/tree/master/0399-evaluate-division) |
+| [0499-the-maze-iii](https://github.com/ghost9933/DSA/tree/master/0499-the-maze-iii) |
 ## Geometry
 |  |
 | ------- |
