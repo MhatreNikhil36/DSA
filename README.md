@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/ghost9933/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ghost9933/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ghost9933/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1672-find-the-index-of-the-large-integer](https://github.com/ghost9933/DSA/tree/master/1672-find-the-index-of-the-large-integer) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ghost9933/DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ghost9933/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/ghost9933/DSA/tree/master/1833-find-the-highest-altitude) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/ghost9933/DSA/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1150-two-sum-bsts](https://github.com/ghost9933/DSA/tree/master/1150-two-sum-bsts) |
 | [1397-search-suggestions-system](https://github.com/ghost9933/DSA/tree/master/1397-search-suggestions-system) |
+| [1672-find-the-index-of-the-large-integer](https://github.com/ghost9933/DSA/tree/master/1672-find-the-index-of-the-large-integer) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ghost9933/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MhatreNikhil36/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/ghost9933/DSA/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
@@ -859,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0277-find-the-celebrity](https://github.com/ghost9933/DSA/tree/master/0277-find-the-celebrity) |
 | [0374-guess-number-higher-or-lower](https://github.com/ghost9933/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [1271-web-crawler](https://github.com/ghost9933/DSA/tree/master/1271-web-crawler) |
+| [1672-find-the-index-of-the-large-integer](https://github.com/ghost9933/DSA/tree/master/1672-find-the-index-of-the-large-integer) |
 ## Combinatorics
 |  |
 | ------- |
