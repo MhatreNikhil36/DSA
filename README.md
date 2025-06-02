@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1126-minimum-cost-to-connect-sticks](https://github.com/ghost9933/DSA/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/ghost9933/DSA/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1164-missing-number-in-arithmetic-progression](https://github.com/ghost9933/DSA/tree/master/1164-missing-number-in-arithmetic-progression) |
+| [1192-divide-chocolate](https://github.com/ghost9933/DSA/tree/master/1192-divide-chocolate) |
 | [1200-remove-interval](https://github.com/ghost9933/DSA/tree/master/1200-remove-interval) |
 | [1319-unique-number-of-occurrences](https://github.com/ghost9933/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1345-perform-string-shifts](https://github.com/ghost9933/DSA/tree/master/1345-perform-string-shifts) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/ghost9933/DSA/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/ghost9933/DSA/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1150-two-sum-bsts](https://github.com/ghost9933/DSA/tree/master/1150-two-sum-bsts) |
+| [1192-divide-chocolate](https://github.com/ghost9933/DSA/tree/master/1192-divide-chocolate) |
 | [1397-search-suggestions-system](https://github.com/ghost9933/DSA/tree/master/1397-search-suggestions-system) |
 | [1672-find-the-index-of-the-large-integer](https://github.com/ghost9933/DSA/tree/master/1672-find-the-index-of-the-large-integer) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ghost9933/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
