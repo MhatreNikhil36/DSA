@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0317-shortest-distance-from-all-buildings](https://github.com/ghost9933/DSA/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0334-increasing-triplet-subsequence](https://github.com/ghost9933/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0346-moving-average-from-data-stream](https://github.com/ghost9933/DSA/tree/master/0346-moving-average-from-data-stream) |
+| [0348-design-tic-tac-toe](https://github.com/ghost9933/DSA/tree/master/0348-design-tic-tac-toe) |
 | [0362-design-hit-counter](https://github.com/ghost9933/DSA/tree/master/0362-design-hit-counter) |
 | [0377-combination-sum-iv](https://github.com/ghost9933/DSA/tree/master/0377-combination-sum-iv) |
 | [0399-evaluate-division](https://github.com/ghost9933/DSA/tree/master/0399-evaluate-division) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0311-sparse-matrix-multiplication](https://github.com/MhatreNikhil36/DSA/tree/master/0311-sparse-matrix-multiplication) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/ghost9933/DSA/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/ghost9933/DSA/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
+| [0348-design-tic-tac-toe](https://github.com/ghost9933/DSA/tree/master/0348-design-tic-tac-toe) |
 | [0355-design-twitter](https://github.com/ghost9933/DSA/tree/master/0355-design-twitter) |
 | [0358-rearrange-string-k-distance-apart](https://github.com/ghost9933/DSA/tree/master/0358-rearrange-string-k-distance-apart) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ghost9933/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0286-walls-and-gates](https://github.com/ghost9933/DSA/tree/master/0286-walls-and-gates) |
 | [0311-sparse-matrix-multiplication](https://github.com/MhatreNikhil36/DSA/tree/master/0311-sparse-matrix-multiplication) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/ghost9933/DSA/tree/master/0317-shortest-distance-from-all-buildings) |
+| [0348-design-tic-tac-toe](https://github.com/ghost9933/DSA/tree/master/0348-design-tic-tac-toe) |
 | [0499-the-maze-iii](https://github.com/ghost9933/DSA/tree/master/0499-the-maze-iii) |
 | [0723-candy-crush](https://github.com/MhatreNikhil36/DSA/tree/master/0723-candy-crush) |
 | [0854-making-a-large-island](https://github.com/ghost9933/DSA/tree/master/0854-making-a-large-island) |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0348-design-tic-tac-toe](https://github.com/ghost9933/DSA/tree/master/0348-design-tic-tac-toe) |
 | [0657-robot-return-to-origin](https://github.com/ghost9933/DSA/tree/master/0657-robot-return-to-origin) |
 | [0723-candy-crush](https://github.com/MhatreNikhil36/DSA/tree/master/0723-candy-crush) |
 | [0735-asteroid-collision](https://github.com/ghost9933/DSA/tree/master/0735-asteroid-collision) |
@@ -621,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0271-encode-and-decode-strings](https://github.com/ghost9933/DSA/tree/master/0271-encode-and-decode-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ghost9933/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0346-moving-average-from-data-stream](https://github.com/ghost9933/DSA/tree/master/0346-moving-average-from-data-stream) |
+| [0348-design-tic-tac-toe](https://github.com/ghost9933/DSA/tree/master/0348-design-tic-tac-toe) |
 | [0355-design-twitter](https://github.com/ghost9933/DSA/tree/master/0355-design-twitter) |
 | [0362-design-hit-counter](https://github.com/ghost9933/DSA/tree/master/0362-design-hit-counter) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ghost9933/DSA/tree/master/0535-encode-and-decode-tinyurl) |
