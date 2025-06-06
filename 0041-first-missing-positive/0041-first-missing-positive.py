@@ -10,10 +10,10 @@ class Solution:
             else:
                 i+=1
         # print(i)
-        print(nums)
+        # print(nums)
         c=1
         for i in range(n):
-            print(i,c)
+            # print(i,c)
             if nums[i]!=i+1:
                 return i+1
         return  n+1
