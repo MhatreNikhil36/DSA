@@ -16,10 +16,8 @@ class SnakeGame:
         nx=x+dx
         ny=y+dy
         l=self.snake.popleft()
-        # print(nx,ny)
-        print(self.food,direction)
-        print('change',direction,'nx,ny',nx,ny)
-        print('snake',self.snake,'\n','---'*10)
+
+        
         if 0<=nx<self.bounds[0] and 0<=ny<self.bounds[1] and (nx,ny) not in self.snake:
             self.pos=(nx,ny)
             if self.food and nx==self.food[0][0] and  ny==self.food[0][1]:
