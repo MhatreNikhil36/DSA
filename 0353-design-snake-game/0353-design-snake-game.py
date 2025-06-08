@@ -6,7 +6,7 @@ class SnakeGame:
         self.moves={'R':(0,1),'L':(0,-1),'U':(-1,0),'D':(1,0)}
         self.food=food
         self.bounds=(height,width)
-        print('bounds',self.bounds)
+        # print('bounds',self.bounds)
         self.snake=deque()
         self.snake.append((0,0))
     def move(self, direction: str) -> int:
