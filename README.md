@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/ghost9933/DSA/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/ghost9933/DSA/tree/master/0271-encode-and-decode-strings) |
 | [0280-wiggle-sort](https://github.com/ghost9933/DSA/tree/master/0280-wiggle-sort) |
+| [0281-zigzag-iterator](https://github.com/ghost9933/DSA/tree/master/0281-zigzag-iterator) |
 | [0283-move-zeroes](https://github.com/ghost9933/DSA/tree/master/0283-move-zeroes) |
 | [0286-walls-and-gates](https://github.com/ghost9933/DSA/tree/master/0286-walls-and-gates) |
 | [0305-number-of-islands-ii](https://github.com/ghost9933/DSA/tree/master/0305-number-of-islands-ii) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ghost9933/DSA/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/ghost9933/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0271-encode-and-decode-strings](https://github.com/ghost9933/DSA/tree/master/0271-encode-and-decode-strings) |
+| [0281-zigzag-iterator](https://github.com/ghost9933/DSA/tree/master/0281-zigzag-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ghost9933/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0346-moving-average-from-data-stream](https://github.com/ghost9933/DSA/tree/master/0346-moving-average-from-data-stream) |
 | [0348-design-tic-tac-toe](https://github.com/ghost9933/DSA/tree/master/0348-design-tic-tac-toe) |
@@ -790,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0281-zigzag-iterator](https://github.com/ghost9933/DSA/tree/master/0281-zigzag-iterator) |
 | [0346-moving-average-from-data-stream](https://github.com/ghost9933/DSA/tree/master/0346-moving-average-from-data-stream) |
 | [0353-design-snake-game](https://github.com/ghost9933/DSA/tree/master/0353-design-snake-game) |
 | [0362-design-hit-counter](https://github.com/ghost9933/DSA/tree/master/0362-design-hit-counter) |
@@ -905,5 +908,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Iterator
 |  |
 | ------- |
+| [0281-zigzag-iterator](https://github.com/ghost9933/DSA/tree/master/0281-zigzag-iterator) |
 | [0604-design-compressed-string-iterator](https://github.com/ghost9933/DSA/tree/master/0604-design-compressed-string-iterator) |
 <!---LeetCode Topics End-->
