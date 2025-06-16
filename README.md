@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-high-five](https://github.com/ghost9933/DSA/tree/master/1074-high-five) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/ghost9933/DSA/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/ghost9933/DSA/tree/master/1143-find-smallest-common-element-in-all-rows) |
+| [1176-design-a-leaderboard](https://github.com/ghost9933/DSA/tree/master/1176-design-a-leaderboard) |
 | [1270-dinner-plate-stacks](https://github.com/ghost9933/DSA/tree/master/1270-dinner-plate-stacks) |
 | [1319-unique-number-of-occurrences](https://github.com/ghost9933/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/ghost9933/DSA/tree/master/1364-tuple-with-same-product) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-campus-bikes](https://github.com/ghost9933/DSA/tree/master/1052-campus-bikes) |
 | [1074-high-five](https://github.com/ghost9933/DSA/tree/master/1074-high-five) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/MhatreNikhil36/DSA/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
+| [1176-design-a-leaderboard](https://github.com/ghost9933/DSA/tree/master/1176-design-a-leaderboard) |
 | [1397-search-suggestions-system](https://github.com/ghost9933/DSA/tree/master/1397-search-suggestions-system) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ghost9933/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ghost9933/DSA/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -654,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/ghost9933/DSA/tree/master/0817-design-hashmap) |
 | [0937-online-stock-span](https://github.com/ghost9933/DSA/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/ghost9933/DSA/tree/master/0969-number-of-recent-calls) |
+| [1176-design-a-leaderboard](https://github.com/ghost9933/DSA/tree/master/1176-design-a-leaderboard) |
 | [1270-dinner-plate-stacks](https://github.com/ghost9933/DSA/tree/master/1270-dinner-plate-stacks) |
 | [1366-first-unique-number](https://github.com/ghost9933/DSA/tree/master/1366-first-unique-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ghost9933/DSA/tree/master/1477-product-of-the-last-k-numbers) |
