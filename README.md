@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/ghost9933/DSA/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/ghost9933/DSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/ghost9933/DSA/tree/master/0198-house-robber) |
+| [0276-paint-fence](https://github.com/ghost9933/DSA/tree/master/0276-paint-fence) |
 | [0333-largest-bst-subtree](https://github.com/ghost9933/DSA/tree/master/0333-largest-bst-subtree) |
 | [0338-counting-bits](https://github.com/ghost9933/DSA/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/ghost9933/DSA/tree/master/0377-combination-sum-iv) |
