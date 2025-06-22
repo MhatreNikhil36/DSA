@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ghost9933/DSA/tree/master/0238-product-of-array-except-self) |
 | [0247-strobogrammatic-number-ii](https://github.com/ghost9933/DSA/tree/master/0247-strobogrammatic-number-ii) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/ghost9933/DSA/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
+| [0256-paint-house](https://github.com/ghost9933/DSA/tree/master/0256-paint-house) |
 | [0269-alien-dictionary](https://github.com/ghost9933/DSA/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/ghost9933/DSA/tree/master/0271-encode-and-decode-strings) |
 | [0280-wiggle-sort](https://github.com/ghost9933/DSA/tree/master/0280-wiggle-sort) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/ghost9933/DSA/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/ghost9933/DSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/ghost9933/DSA/tree/master/0198-house-robber) |
+| [0256-paint-house](https://github.com/ghost9933/DSA/tree/master/0256-paint-house) |
 | [0276-paint-fence](https://github.com/ghost9933/DSA/tree/master/0276-paint-fence) |
 | [0333-largest-bst-subtree](https://github.com/ghost9933/DSA/tree/master/0333-largest-bst-subtree) |
 | [0338-counting-bits](https://github.com/ghost9933/DSA/tree/master/0338-counting-bits) |
