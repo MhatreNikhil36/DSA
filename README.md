@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/ghost9933/DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ghost9933/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ghost9933/DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ghost9933/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2808-painting-the-walls](https://github.com/ghost9933/DSA/tree/master/2808-painting-the-walls) |
 | [3024-string-transformation](https://github.com/ghost9933/DSA/tree/master/3024-string-transformation) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/ghost9933/DSA/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/ghost9933/DSA/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ghost9933/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/ghost9933/DSA/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ghost9933/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2470-removing-stars-from-a-string](https://github.com/ghost9933/DSA/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ghost9933/DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3024-string-transformation](https://github.com/ghost9933/DSA/tree/master/3024-string-transformation) |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/ghost9933/DSA/tree/master/0139-word-break) |
 | [1236-n-th-tribonacci-number](https://github.com/ghost9933/DSA/tree/master/1236-n-th-tribonacci-number) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ghost9933/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Stack
 |  |
 | ------- |
@@ -851,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-shortest-way-to-form-string](https://github.com/ghost9933/DSA/tree/master/1051-shortest-way-to-form-string) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/ghost9933/DSA/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/ghost9933/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ghost9933/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2636-maximum-subsequence-score](https://github.com/ghost9933/DSA/tree/master/2636-maximum-subsequence-score) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/ghost9933/DSA/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3647-zero-array-transformation-iii](https://github.com/ghost9933/DSA/tree/master/3647-zero-array-transformation-iii) |
