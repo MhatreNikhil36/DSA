@@ -8,7 +8,7 @@ class Solution:
         for i in range(k):
             x=heapq.heappop(heap)
             heapq.heappush(ans,[x[1],x[0]])
-        print(ans)
+        # print(ans)
         res=[]
         while ans:
 
