@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-string-transformation](https://github.com/ghost9933/DSA/tree/master/3024-string-transformation) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ghost9933/DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3447-clear-digits](https://github.com/ghost9933/DSA/tree/master/3447-clear-digits) |
+| [3617-find-the-original-typed-string-i](https://github.com/ghost9933/DSA/tree/master/3617-find-the-original-typed-string-i) |
 ## Matrix
 |  |
 | ------- |
