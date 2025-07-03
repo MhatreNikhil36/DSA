@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/ghost9933/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/ghost9933/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [3024-string-transformation](https://github.com/ghost9933/DSA/tree/master/3024-string-transformation) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/ghost9933/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
 | ------- |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ghost9933/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ghost9933/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/ghost9933/DSA/tree/master/3447-clear-digits) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/ghost9933/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/ghost9933/DSA/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/ghost9933/DSA/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1650-find-root-of-n-ary-tree](https://github.com/ghost9933/DSA/tree/master/1650-find-root-of-n-ary-tree) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/ghost9933/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
 |  |
 | ------- |
@@ -787,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/ghost9933/DSA/tree/master/0394-decode-string) |
 | [0785-basic-calculator-iii](https://github.com/MhatreNikhil36/DSA/tree/master/0785-basic-calculator-iii) |
 | [1404-print-immutable-linked-list-in-reverse](https://github.com/ghost9933/DSA/tree/master/1404-print-immutable-linked-list-in-reverse) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/ghost9933/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Union Find
 |  |
 | ------- |
