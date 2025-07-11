@@ -685,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0588-design-in-memory-file-system](https://github.com/ghost9933/DSA/tree/master/0588-design-in-memory-file-system) |
 | [0604-design-compressed-string-iterator](https://github.com/ghost9933/DSA/tree/master/0604-design-compressed-string-iterator) |
 | [0642-design-search-autocomplete-system](https://github.com/ghost9933/DSA/tree/master/0642-design-search-autocomplete-system) |
+| [0716-max-stack](https://github.com/ghost9933/DSA/tree/master/0716-max-stack) |
 | [0816-design-hashset](https://github.com/ghost9933/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ghost9933/DSA/tree/master/0817-design-hashmap) |
 | [0937-online-stock-span](https://github.com/ghost9933/DSA/tree/master/0937-online-stock-span) |
@@ -738,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/ghost9933/DSA/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/ghost9933/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0484-find-permutation](https://github.com/MhatreNikhil36/DSA/tree/master/0484-find-permutation) |
+| [0716-max-stack](https://github.com/ghost9933/DSA/tree/master/0716-max-stack) |
 | [0735-asteroid-collision](https://github.com/ghost9933/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ghost9933/DSA/tree/master/0739-daily-temperatures) |
 | [0785-basic-calculator-iii](https://github.com/MhatreNikhil36/DSA/tree/master/0785-basic-calculator-iii) |
@@ -775,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/ghost9933/DSA/tree/master/0355-design-twitter) |
 | [0369-plus-one-linked-list](https://github.com/ghost9933/DSA/tree/master/0369-plus-one-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/ghost9933/DSA/tree/master/0445-add-two-numbers-ii) |
+| [0716-max-stack](https://github.com/ghost9933/DSA/tree/master/0716-max-stack) |
 | [0816-design-hashset](https://github.com/ghost9933/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ghost9933/DSA/tree/master/0817-design-hashmap) |
 | [0850-insert-into-a-sorted-circular-linked-list](https://github.com/MhatreNikhil36/DSA/tree/master/0850-insert-into-a-sorted-circular-linked-list) |
@@ -927,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0716-max-stack](https://github.com/ghost9933/DSA/tree/master/0716-max-stack) |
 | [2413-smallest-number-in-infinite-set](https://github.com/ghost9933/DSA/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/ghost9933/DSA/tree/master/2434-design-a-number-container-system) |
 ## Interactive
@@ -974,4 +978,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ghost9933/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0716-max-stack](https://github.com/ghost9933/DSA/tree/master/0716-max-stack) |
 <!---LeetCode Topics End-->
