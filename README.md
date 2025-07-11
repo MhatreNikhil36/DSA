@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/ghost9933/DSA/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ghost9933/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/ghost9933/DSA/tree/master/1036-rotting-oranges) |
+| [1076-brace-expansion](https://github.com/ghost9933/DSA/tree/master/1076-brace-expansion) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ghost9933/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1271-web-crawler](https://github.com/ghost9933/DSA/tree/master/1271-web-crawler) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ghost9933/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/ghost9933/DSA/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/ghost9933/DSA/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/ghost9933/DSA/tree/master/0494-target-sum) |
+| [1076-brace-expansion](https://github.com/ghost9933/DSA/tree/master/1076-brace-expansion) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ghost9933/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Hash Table
 |  |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/ghost9933/DSA/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0785-basic-calculator-iii](https://github.com/MhatreNikhil36/DSA/tree/master/0785-basic-calculator-iii) |
 | [1051-shortest-way-to-form-string](https://github.com/ghost9933/DSA/tree/master/1051-shortest-way-to-form-string) |
+| [1076-brace-expansion](https://github.com/ghost9933/DSA/tree/master/1076-brace-expansion) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/ghost9933/DSA/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
 | [1119-robot-bounded-in-circle](https://github.com/ghost9933/DSA/tree/master/1119-robot-bounded-in-circle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ghost9933/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
