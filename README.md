@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/ghost9933/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/ghost9933/DSA/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/ghost9933/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/ghost9933/DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1052-campus-bikes](https://github.com/ghost9933/DSA/tree/master/1052-campus-bikes) |
 | [1059-missing-element-in-sorted-array](https://github.com/ghost9933/DSA/tree/master/1059-missing-element-in-sorted-array) |
 | [1074-high-five](https://github.com/ghost9933/DSA/tree/master/1074-high-five) |
@@ -881,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/ghost9933/DSA/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/ghost9933/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ghost9933/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/ghost9933/DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1051-shortest-way-to-form-string](https://github.com/ghost9933/DSA/tree/master/1051-shortest-way-to-form-string) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/ghost9933/DSA/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ghost9933/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
