@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/ghost9933/DSA/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/ghost9933/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ghost9933/DSA/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/ghost9933/DSA/tree/master/0239-sliding-window-maximum) |
 | [0247-strobogrammatic-number-ii](https://github.com/ghost9933/DSA/tree/master/0247-strobogrammatic-number-ii) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/ghost9933/DSA/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0256-paint-house](https://github.com/ghost9933/DSA/tree/master/0256-paint-house) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ghost9933/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/ghost9933/DSA/tree/master/0239-sliding-window-maximum) |
 | [0272-closest-binary-search-tree-value-ii](https://github.com/ghost9933/DSA/tree/master/0272-closest-binary-search-tree-value-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ghost9933/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/ghost9933/DSA/tree/master/0355-design-twitter) |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ghost9933/DSA/tree/master/0076-minimum-window-substring) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/ghost9933/DSA/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
+| [0239-sliding-window-maximum](https://github.com/ghost9933/DSA/tree/master/0239-sliding-window-maximum) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/ghost9933/DSA/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ghost9933/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0487-max-consecutive-ones-ii](https://github.com/ghost9933/DSA/tree/master/0487-max-consecutive-ones-ii) |
@@ -850,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/ghost9933/DSA/tree/master/0239-sliding-window-maximum) |
 | [0281-zigzag-iterator](https://github.com/ghost9933/DSA/tree/master/0281-zigzag-iterator) |
 | [0346-moving-average-from-data-stream](https://github.com/ghost9933/DSA/tree/master/0346-moving-average-from-data-stream) |
 | [0353-design-snake-game](https://github.com/ghost9933/DSA/tree/master/0353-design-snake-game) |
@@ -989,4 +993,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0716-max-stack](https://github.com/ghost9933/DSA/tree/master/0716-max-stack) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ghost9933/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
