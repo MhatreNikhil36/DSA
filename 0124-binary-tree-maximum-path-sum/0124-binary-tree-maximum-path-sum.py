@@ -6,7 +6,7 @@
 #         self.right = right
 class Solution:
     def maxPathSum(self, root: Optional[TreeNode]) -> int:
-        pathsums=dict()
+        # pathsums=dict()
         ans=-math.inf
         def sumUp(root):
             nonlocal ans
@@ -23,7 +23,7 @@ class Solution:
                 ans=l+r+root.val
             if  val>ans:
                 ans=val
-            pathsums[root.val]=val
+            # pathsums[root.val]=val
             return val
         sumUp(root)
         return  ans
