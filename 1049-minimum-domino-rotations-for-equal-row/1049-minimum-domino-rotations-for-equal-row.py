@@ -24,7 +24,7 @@ class Solution:
         i=0
         ni=0
         ans=math.inf
-        print(c)
+        # print(c)
         for op in c[-1]:
             mc=op
             for x in tops:
