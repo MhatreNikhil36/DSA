@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ghost9933/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ghost9933/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ghost9933/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0207-course-schedule](https://github.com/ghost9933/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ghost9933/DSA/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ghost9933/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ghost9933/DSA/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/ghost9933/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/ghost9933/DSA/tree/master/0091-decode-ways) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ghost9933/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/ghost9933/DSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/ghost9933/DSA/tree/master/0198-house-robber) |
 | [0256-paint-house](https://github.com/ghost9933/DSA/tree/master/0256-paint-house) |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ghost9933/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ghost9933/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ghost9933/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ghost9933/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/ghost9933/DSA/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0270-closest-binary-search-tree-value](https://github.com/ghost9933/DSA/tree/master/0270-closest-binary-search-tree-value) |
@@ -702,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ghost9933/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ghost9933/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ghost9933/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ghost9933/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0255-verify-preorder-sequence-in-binary-search-tree](https://github.com/ghost9933/DSA/tree/master/0255-verify-preorder-sequence-in-binary-search-tree) |
 | [0270-closest-binary-search-tree-value](https://github.com/ghost9933/DSA/tree/master/0270-closest-binary-search-tree-value) |
