@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ghost9933/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/ghost9933/DSA/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3647-zero-array-transformation-iii](https://github.com/ghost9933/DSA/tree/master/3647-zero-array-transformation-iii) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ghost9933/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ghost9933/DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ghost9933/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/ghost9933/DSA/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ghost9933/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -898,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2636-maximum-subsequence-score](https://github.com/ghost9933/DSA/tree/master/2636-maximum-subsequence-score) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/ghost9933/DSA/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3647-zero-array-transformation-iii](https://github.com/ghost9933/DSA/tree/master/3647-zero-array-transformation-iii) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ghost9933/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting
 |  |
 | ------- |
