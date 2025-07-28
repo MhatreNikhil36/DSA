@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1164-missing-number-in-arithmetic-progression](https://github.com/ghost9933/DSA/tree/master/1164-missing-number-in-arithmetic-progression) |
 | [1192-divide-chocolate](https://github.com/ghost9933/DSA/tree/master/1192-divide-chocolate) |
 | [1200-remove-interval](https://github.com/ghost9933/DSA/tree/master/1200-remove-interval) |
+| [1306-minimum-absolute-difference](https://github.com/ghost9933/DSA/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/ghost9933/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1345-perform-string-shifts](https://github.com/ghost9933/DSA/tree/master/1345-perform-string-shifts) |
 | [1364-tuple-with-same-product](https://github.com/ghost9933/DSA/tree/master/1364-tuple-with-same-product) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-high-five](https://github.com/ghost9933/DSA/tree/master/1074-high-five) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/MhatreNikhil36/DSA/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1176-design-a-leaderboard](https://github.com/ghost9933/DSA/tree/master/1176-design-a-leaderboard) |
+| [1306-minimum-absolute-difference](https://github.com/ghost9933/DSA/tree/master/1306-minimum-absolute-difference) |
 | [1397-search-suggestions-system](https://github.com/ghost9933/DSA/tree/master/1397-search-suggestions-system) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ghost9933/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ghost9933/DSA/tree/master/1777-determine-if-two-strings-are-close) |
