@@ -13,13 +13,13 @@ class Solution:
             l=i-1
             r=i+1
             if l>=0 and r<n:
-                print(nums[l],nums[i],nums[r])
+                # print(nums[l],nums[i],nums[r])
                 if nums[i]>nums[l] and nums[i]>nums[r]:
                     c+=1
-                    print(nums[i])
+                    # print(nums[i])
                 if nums[i]<nums[l] and nums[i]<nums[r]:
                     c+=1
-                    print(nums[i])
+                    # print(nums[i])
         return c
 
                 
