@@ -9,7 +9,6 @@ class Solution:
         outgoing=[]
         for  i in range(k,n):
             # print(windowHeap,'\n out,',outgoing)
-           
             heapq.heappush(outgoing,-nums[i-k])
             heapq.heappush(windowHeap,-nums[i])
             
