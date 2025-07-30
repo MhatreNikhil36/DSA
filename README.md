@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ghost9933/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ghost9933/DSA/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/ghost9933/DSA/tree/master/0018-4sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ghost9933/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/ghost9933/DSA/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/ghost9933/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/ghost9933/DSA/tree/master/0079-word-search) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ghost9933/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/ghost9933/DSA/tree/master/0162-find-peak-element) |
 | [0270-closest-binary-search-tree-value](https://github.com/ghost9933/DSA/tree/master/0270-closest-binary-search-tree-value) |
 | [0362-design-hit-counter](https://github.com/ghost9933/DSA/tree/master/0362-design-hit-counter) |
