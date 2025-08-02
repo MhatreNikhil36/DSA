@@ -589,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1155-product-sales-analysis-iii](https://github.com/ghost9933/DSA/tree/master/1155-product-sales-analysis-iii) |
 | [1161-project-employees-i](https://github.com/ghost9933/DSA/tree/master/1161-project-employees-i) |
 | [1182-game-play-analysis-iv](https://github.com/ghost9933/DSA/tree/master/1182-game-play-analysis-iv) |
+| [1214-highest-grade-for-each-student](https://github.com/ghost9933/DSA/tree/master/1214-highest-grade-for-each-student) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/ghost9933/DSA/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/ghost9933/DSA/tree/master/1258-article-views-i) |
 | [1278-product-price-at-a-given-date](https://github.com/ghost9933/DSA/tree/master/1278-product-price-at-a-given-date) |
