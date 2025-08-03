@@ -579,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0262-trips-and-users](https://github.com/ghost9933/DSA/tree/master/0262-trips-and-users) |
 | [0584-find-customer-referee](https://github.com/ghost9933/DSA/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/ghost9933/DSA/tree/master/0585-investments-in-2016) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/ghost9933/DSA/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/ghost9933/DSA/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/ghost9933/DSA/tree/master/0596-classes-more-than-5-students) |
 | [0601-human-traffic-of-stadium](https://github.com/ghost9933/DSA/tree/master/0601-human-traffic-of-stadium) |
