@@ -589,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/ghost9933/DSA/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/ghost9933/DSA/tree/master/0626-exchange-seats) |
 | [1135-customers-who-bought-all-products](https://github.com/ghost9933/DSA/tree/master/1135-customers-who-bought-all-products) |
+| [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/ghost9933/DSA/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1155-product-sales-analysis-iii](https://github.com/ghost9933/DSA/tree/master/1155-product-sales-analysis-iii) |
 | [1161-project-employees-i](https://github.com/ghost9933/DSA/tree/master/1161-project-employees-i) |
 | [1179-game-play-analysis-i](https://github.com/ghost9933/DSA/tree/master/1179-game-play-analysis-i) |
