@@ -1,7 +1,7 @@
 select u.name, ifnull(t.balance,0) balance from 
-users u left join (
+users u inner join (
 select account,sum(amount) balance
 from transactions
 group by account
+having balance>10000
  ) t on u.account=t.account
- where t.balance>10000
