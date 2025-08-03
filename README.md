@@ -624,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-percentage-of-users-attended-a-contest](https://github.com/ghost9933/DSA/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1811-fix-names-in-a-table](https://github.com/ghost9933/DSA/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/ghost9933/DSA/tree/master/1827-invalid-tweets) |
+| [1837-daily-leads-and-partners](https://github.com/ghost9933/DSA/tree/master/1837-daily-leads-and-partners) |
 | [1842-number-of-calls-between-two-persons](https://github.com/ghost9933/DSA/tree/master/1842-number-of-calls-between-two-persons) |
 | [1877-find-followers-count](https://github.com/ghost9933/DSA/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/ghost9933/DSA/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
