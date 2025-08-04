@@ -1,12 +1,15 @@
-# Write your MySQL query statement below
+WITH RECURSIVE subordinates AS (
+    -- Anchor: employees who report directly to the head
+    SELECT employee_id
+    FROM employees
+    WHERE manager_id = 1 AND employee_id != 1
 
-with direct as (
-select employee_id from employees where manager_id=1 and employee_id!=1)
-, lvl2 as (
-select employee_id from employees where manager_id in (select employee_id from direct))
+    UNION ALL
 
-select employee_id from employees where manager_id in (select employee_id from lvl2)
-union all
-select employee_id from direct
-union all
-select employee_id from lvl2
+    -- Recursive: employees who report to those found so far
+    SELECT e.employee_id
+    FROM employees e
+    JOIN subordinates s ON e.manager_id = s.employee_id
+)
+SELECT employee_id
+FROM subordinates;
