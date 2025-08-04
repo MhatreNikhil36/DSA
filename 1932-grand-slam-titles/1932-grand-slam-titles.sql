@@ -1,17 +1,20 @@
-SELECT 
-  p.player_id,
-  p.player_name,
-  COUNT(*) AS grand_slams_count
-FROM Players p
-JOIN (
-    SELECT Wimbledon AS player_id FROM Championships
-    UNION ALL
-    SELECT Fr_open AS player_id FROM Championships
-    UNION ALL
-    SELECT US_open AS player_id FROM Championships
-    UNION ALL
-    SELECT Au_open AS player_id FROM Championships
-) AS all_wins
-ON p.player_id = all_wins.player_id
-GROUP BY p.player_id, p.player_name
-ORDER BY player_id;
+# Write your MySQL query statement below
+select p.player_id ,p.player_name,count(id)  grand_slams_count 
+from
+players p  join
+(
+select Wimbledon    id
+from Championships
+union all 
+select Fr_open           id
+from Championships
+union all 
+select us_open           id
+from Championships
+union all 
+select au_open           id
+from Championships
+) a
+on p.player_id=a.id
+group by p.player_name
+having grand_slams_count>0
