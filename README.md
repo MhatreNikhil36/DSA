@@ -647,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1942-primary-department-for-each-employee](https://github.com/ghost9933/DSA/tree/master/1942-primary-department-for-each-employee) |
 | [1948-rearrange-products-table](https://github.com/ghost9933/DSA/tree/master/1948-rearrange-products-table) |
 | [1974-find-customers-with-positive-revenue-this-year](https://github.com/MhatreNikhil36/DSA/tree/master/1974-find-customers-with-positive-revenue-this-year) |
+| [1981-maximum-transaction-each-day](https://github.com/ghost9933/DSA/tree/master/1981-maximum-transaction-each-day) |
 | [2024-calculate-special-bonus](https://github.com/MhatreNikhil36/DSA/tree/master/2024-calculate-special-bonus) |
 | [2041-the-latest-login-in-2020](https://github.com/ghost9933/DSA/tree/master/2041-the-latest-login-in-2020) |
 | [2057-count-salary-categories](https://github.com/ghost9933/DSA/tree/master/2057-count-salary-categories) |
