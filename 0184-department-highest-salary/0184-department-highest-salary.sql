@@ -1,12 +1,8 @@
-# Write your MySQL query statement below
-with maxsal as 
+select d.name department, e.employee, e.salary
+from department d join 
 (
-select  departmentId,name  as  employee ,salary, rank() over(  partition by departmentid order by  salary desc) as r
+select departmentId, name employee ,salary,rank() over( partition by departmentId order by salary desc ) rn
 from employee
-
-)
-
-select name as department  ,employee, salary
-from department inner join maxsal
-on id=departmentId
-and r=1
+) e
+on d.id=e.departmentId
+where e.rn=1
