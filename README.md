@@ -612,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-team-scores-in-football-tournament](https://github.com/ghost9933/DSA/tree/master/1339-team-scores-in-football-tournament) |
 | [1390-average-selling-price](https://github.com/ghost9933/DSA/tree/master/1390-average-selling-price) |
 | [1399-page-recommendations](https://github.com/ghost9933/DSA/tree/master/1399-page-recommendations) |
+| [1405-all-people-report-to-the-given-manager](https://github.com/ghost9933/DSA/tree/master/1405-all-people-report-to-the-given-manager) |
 | [1420-find-the-start-and-end-number-of-continuous-ranges](https://github.com/ghost9933/DSA/tree/master/1420-find-the-start-and-end-number-of-continuous-ranges) |
 | [1438-find-the-team-size](https://github.com/ghost9933/DSA/tree/master/1438-find-the-team-size) |
 | [1452-restaurant-growth](https://github.com/ghost9933/DSA/tree/master/1452-restaurant-growth) |
