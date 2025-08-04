@@ -1,11 +1,16 @@
-SELECT customer_id, product_id, product_name
-FROM (
-    SELECT O.customer_id, O.product_id, P.product_name, 
-    RANK() OVER (PARTITION BY customer_id ORDER BY COUNT(O.product_id) DESC) AS rnk
-    FROM Orders O
-    JOIN Products P
-    ON O.product_id = P.product_id  
-    GROUP BY customer_id, product_id
-) temp
-WHERE rnk = 1 
-ORDER BY customer_id, product_id
+
+select  c.customer_id,o.product_id,p.product_name
+from
+customers c
+left join 
+(
+select customer_id,product_id, rank() over(partition  by customer_id order  by pc desc ) as r from
+(
+select  customer_id,product_id, count(product_id) pc
+from orders
+group by  customer_id,product_id
+) a
+) o on o.customer_id=c.customer_id
+inner join products p on p.product_id=o.product_id
+ where o.r=1
+ and o.product_id  is not null
