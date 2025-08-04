@@ -1,7 +1,7 @@
 # Write your MySQL query statement below
 select p.player_id ,p.player_name,count(id)  grand_slams_count 
 from
-players p left join
+players p  join
 (
 select Wimbledon    id
 from Championships
@@ -17,4 +17,4 @@ from Championships
 ) a
 on p.player_id=a.id
 group by p.player_name
-having grand_slams_count>0
+
