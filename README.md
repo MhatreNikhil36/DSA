@@ -615,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-apples-oranges](https://github.com/ghost9933/DSA/tree/master/1578-apples-oranges) |
 | [1625-group-sold-products-by-the-date](https://github.com/ghost9933/DSA/tree/master/1625-group-sold-products-by-the-date) |
 | [1639-friendly-movies-streamed-last-month](https://github.com/ghost9933/DSA/tree/master/1639-friendly-movies-streamed-last-month) |
+| [1641-countries-you-can-safely-invest-in](https://github.com/ghost9933/DSA/tree/master/1641-countries-you-can-safely-invest-in) |
 | [1654-customer-order-frequency](https://github.com/ghost9933/DSA/tree/master/1654-customer-order-frequency) |
 | [1664-find-users-with-valid-e-mails](https://github.com/ghost9933/DSA/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/ghost9933/DSA/tree/master/1670-patients-with-a-condition) |
