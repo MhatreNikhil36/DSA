@@ -610,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1327-last-person-to-fit-in-the-bus](https://github.com/ghost9933/DSA/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1338-queries-quality-and-percentage](https://github.com/ghost9933/DSA/tree/master/1338-queries-quality-and-percentage) |
 | [1339-team-scores-in-football-tournament](https://github.com/ghost9933/DSA/tree/master/1339-team-scores-in-football-tournament) |
+| [1357-report-contiguous-dates](https://github.com/ghost9933/DSA/tree/master/1357-report-contiguous-dates) |
 | [1390-average-selling-price](https://github.com/ghost9933/DSA/tree/master/1390-average-selling-price) |
 | [1399-page-recommendations](https://github.com/ghost9933/DSA/tree/master/1399-page-recommendations) |
 | [1405-all-people-report-to-the-given-manager](https://github.com/ghost9933/DSA/tree/master/1405-all-people-report-to-the-given-manager) |
