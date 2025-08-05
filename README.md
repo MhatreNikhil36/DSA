@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-high-five](https://github.com/ghost9933/DSA/tree/master/1074-high-five) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/MhatreNikhil36/DSA/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/ghost9933/DSA/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
+| [1108-analyze-user-website-visit-pattern](https://github.com/ghost9933/DSA/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/ghost9933/DSA/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/ghost9933/DSA/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1164-missing-number-in-arithmetic-progression](https://github.com/ghost9933/DSA/tree/master/1164-missing-number-in-arithmetic-progression) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ghost9933/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1074-high-five](https://github.com/ghost9933/DSA/tree/master/1074-high-five) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/ghost9933/DSA/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
+| [1108-analyze-user-website-visit-pattern](https://github.com/ghost9933/DSA/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/ghost9933/DSA/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1176-design-a-leaderboard](https://github.com/ghost9933/DSA/tree/master/1176-design-a-leaderboard) |
 | [1270-dinner-plate-stacks](https://github.com/ghost9933/DSA/tree/master/1270-dinner-plate-stacks) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-shortest-way-to-form-string](https://github.com/ghost9933/DSA/tree/master/1051-shortest-way-to-form-string) |
 | [1076-brace-expansion](https://github.com/ghost9933/DSA/tree/master/1076-brace-expansion) |
 | [1084-find-k-length-substrings-with-no-repeated-characters](https://github.com/ghost9933/DSA/tree/master/1084-find-k-length-substrings-with-no-repeated-characters) |
+| [1108-analyze-user-website-visit-pattern](https://github.com/ghost9933/DSA/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1119-robot-bounded-in-circle](https://github.com/ghost9933/DSA/tree/master/1119-robot-bounded-in-circle) |
 | [1131-count-substrings-with-only-one-distinct-letter](https://github.com/ghost9933/DSA/tree/master/1131-count-substrings-with-only-one-distinct-letter) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ghost9933/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-campus-bikes](https://github.com/ghost9933/DSA/tree/master/1052-campus-bikes) |
 | [1074-high-five](https://github.com/ghost9933/DSA/tree/master/1074-high-five) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/MhatreNikhil36/DSA/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
+| [1108-analyze-user-website-visit-pattern](https://github.com/ghost9933/DSA/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1176-design-a-leaderboard](https://github.com/ghost9933/DSA/tree/master/1176-design-a-leaderboard) |
 | [1306-minimum-absolute-difference](https://github.com/ghost9933/DSA/tree/master/1306-minimum-absolute-difference) |
 | [1397-search-suggestions-system](https://github.com/ghost9933/DSA/tree/master/1397-search-suggestions-system) |
