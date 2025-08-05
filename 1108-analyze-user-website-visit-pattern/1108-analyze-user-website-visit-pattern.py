@@ -13,7 +13,7 @@ class Solution:
         pattern = dict()
 
         for user in users:
-            print('counting for', user)
+            # print('counting for', user)
             sites = []
             while users[user]:
                 sites.append(heapq.heappop(users[user])[1])
@@ -29,7 +29,7 @@ class Solution:
                 for j in range(i + 1, n):
                     for k in range(j + 1, n):
                         key = (sites[i], sites[j], sites[k])
-                        print(key)
+                        # print(key)
                         user_patterns.add(key)
             
             # Count each unique pattern for this user
@@ -43,7 +43,7 @@ class Solution:
             
         maxc = max(pattern.values())
         maxk = None
-        print(pattern)
+        # print(pattern)
         
         for x in pattern:
             if pattern[x] == maxc:
