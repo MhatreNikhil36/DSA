@@ -1,67 +1,37 @@
-import random
 class RandomizedSet:
 
     def __init__(self):
-        self.mod=1000
-        self.data=[None for i in range(self.mod)]
-        
+        self.data=[]
+        self.keys=dict()
 
     def insert(self, val: int) -> bool:
-        k=val%self.mod
-        if self.data[k]==None:
-            self.data[k]=val
-            return True
-        if  isinstance(self.data[k], list):
-            if val in self.data[k]:
-                return False
-            else:
-                self.data[k].append(val)
-                return True
-        if self.data[k]!=None:
-            if self.data[k]==val:
-                return False
-            self.data[k]=[self.data[k],val]
-            return True
-    
-        
+        if val in self.keys:
+            return False
+        n=len(self.data)
+        self.data.append(val)
+        self.keys[val]=n
+        return True
 
     def remove(self, val: int) -> bool:
-        k=val%self.mod
-        if self.data[k]==None:
+        if val not in self.keys:
             return False
-        if  isinstance(self.data[k], list):
-            if val in self.data[k]:
-                self.data[k].remove(val)
-                return True
-            else:
-                return False
-        if self.data[k]!=None:
-            if self.data[k]==val:
-                self.data[k]=None
-                return True
-            return False
-  
         
+        delidx=self.keys[val]
+        if delidx==len(self.data)-1:
+            self.data.pop()
+            del self.keys[val]
+            return True
+        self.data[delidx]=self.data[-1]
+        self.keys[self.data[-1]]=delidx
+        self.data.pop()
+        del self.keys[val]
+        return True
+
+        
+
     def getRandom(self) -> int:
-        n=len(self.data)
-        if n==0:
-            return None
-        flat_list = []
+        return   random.choice(self.data)
         
-        # Flatten the list to handle nested lists
-        def flatten_list(lst):
-            for item in lst:
-                if item!=None:
-                    if  isinstance(item, list):
-                        flatten_list(item)
-                    else:
-                        flat_list.append(item)
-        
-        flatten_list(self.data)
-        # print(flat_list)
-        if flat_list:
-            return random.choice(flat_list)
-        return None
 
 
 # Your RandomizedSet object will be instantiated and called as such:
