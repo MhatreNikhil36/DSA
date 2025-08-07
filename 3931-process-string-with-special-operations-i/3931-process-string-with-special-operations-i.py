@@ -4,7 +4,7 @@ class Solution:
 
         operations={'*','#','%'}
         for  x in s:
-            print(x)
+            # print(x)
             if  x not in operations:
                 res.append(x)
             elif  x=='*':
