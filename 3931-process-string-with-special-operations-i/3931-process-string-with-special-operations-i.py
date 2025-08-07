@@ -11,9 +11,9 @@ class Solution:
                 if res:
                     res.pop()
             elif x=='#':
-                res=res+res
+                res.extend(res) 
                 
             elif x=='%':
-                res=res[::-1]
+                res.reverse()
             # print('\t',res)
         return ''.join(res)
