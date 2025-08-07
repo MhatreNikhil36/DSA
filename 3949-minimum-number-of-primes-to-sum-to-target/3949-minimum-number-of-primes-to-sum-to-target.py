@@ -40,7 +40,7 @@ class Solution:
                     f=0
             if f==1:
                 primes.append(s)
-        print(primes)
+        # print(primes)
 
         dp=[n+1  for i in range(n+1)]
         dp[0]=0
@@ -53,8 +53,8 @@ class Solution:
                         dp[i]=min(dp[i],q+dp[r],dp[i-x]+1)
                     else:
                         dp[i]=min(dp[i],dp[i-x]+1)
-        for i in range (n+1):
-            print(i,dp[i])
+        # for i in range (n+1):
+        #     print(i,dp[i])
         if  dp[-1]>n:
             return -1
         return dp[-1]
