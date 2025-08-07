@@ -661,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1898-leetflex-banned-accounts](https://github.com/ghost9933/DSA/tree/master/1898-leetflex-banned-accounts) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ghost9933/DSA/tree/master/1908-recyclable-and-low-fat-products) |
 | [1914-find-the-subtasks-that-did-not-execute](https://github.com/ghost9933/DSA/tree/master/1914-find-the-subtasks-that-did-not-execute) |
+| [1926-products-price-for-each-store](https://github.com/ghost9933/DSA/tree/master/1926-products-price-for-each-store) |
 | [1932-grand-slam-titles](https://github.com/ghost9933/DSA/tree/master/1932-grand-slam-titles) |
 | [1942-primary-department-for-each-employee](https://github.com/ghost9933/DSA/tree/master/1942-primary-department-for-each-employee) |
 | [1948-rearrange-products-table](https://github.com/ghost9933/DSA/tree/master/1948-rearrange-products-table) |
