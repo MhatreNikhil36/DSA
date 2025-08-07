@@ -604,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1155-product-sales-analysis-iii](https://github.com/ghost9933/DSA/tree/master/1155-product-sales-analysis-iii) |
 | [1161-project-employees-i](https://github.com/ghost9933/DSA/tree/master/1161-project-employees-i) |
 | [1163-project-employees-iii](https://github.com/ghost9933/DSA/tree/master/1163-project-employees-iii) |
+| [1172-sales-analysis-i](https://github.com/ghost9933/DSA/tree/master/1172-sales-analysis-i) |
 | [1179-game-play-analysis-i](https://github.com/ghost9933/DSA/tree/master/1179-game-play-analysis-i) |
 | [1180-game-play-analysis-ii](https://github.com/ghost9933/DSA/tree/master/1180-game-play-analysis-ii) |
 | [1181-game-play-analysis-iii](https://github.com/ghost9933/DSA/tree/master/1181-game-play-analysis-iii) |
