@@ -683,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2451-product-sales-analysis-iv](https://github.com/ghost9933/DSA/tree/master/2451-product-sales-analysis-iv) |
 | [2452-product-sales-analysis-v](https://github.com/ghost9933/DSA/tree/master/2452-product-sales-analysis-v) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ghost9933/DSA/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+| [2534-employees-with-deductions](https://github.com/ghost9933/DSA/tree/master/2534-employees-with-deductions) |
 ## Trie
 |  |
 | ------- |
