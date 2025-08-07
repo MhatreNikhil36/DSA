@@ -7,4 +7,3 @@ group by employee_id,m
 )
 l on l.employee_id=e.employee_id
 where ifnull(l.hours,0)<e.needed_hours 
-order by 1
