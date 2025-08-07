@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/ghost9933/DSA/tree/master/3647-zero-array-transformation-iii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ghost9933/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3791-fruits-into-baskets-iii](https://github.com/ghost9933/DSA/tree/master/3791-fruits-into-baskets-iii) |
+| [3949-minimum-number-of-primes-to-sum-to-target](https://github.com/ghost9933/DSA/tree/master/3949-minimum-number-of-primes-to-sum-to-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2808-painting-the-walls](https://github.com/ghost9933/DSA/tree/master/2808-painting-the-walls) |
 | [3024-string-transformation](https://github.com/ghost9933/DSA/tree/master/3024-string-transformation) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/ghost9933/DSA/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
+| [3949-minimum-number-of-primes-to-sum-to-target](https://github.com/ghost9933/DSA/tree/master/3949-minimum-number-of-primes-to-sum-to-target) |
 ## Backtracking
 |  |
 | ------- |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/ghost9933/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [3024-string-transformation](https://github.com/ghost9933/DSA/tree/master/3024-string-transformation) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ghost9933/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3949-minimum-number-of-primes-to-sum-to-target](https://github.com/ghost9933/DSA/tree/master/3949-minimum-number-of-primes-to-sum-to-target) |
 ## Simulation
 |  |
 | ------- |
@@ -1095,4 +1098,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3791-fruits-into-baskets-iii](https://github.com/ghost9933/DSA/tree/master/3791-fruits-into-baskets-iii) |
+## Number Theory
+|  |
+| ------- |
+| [3949-minimum-number-of-primes-to-sum-to-target](https://github.com/ghost9933/DSA/tree/master/3949-minimum-number-of-primes-to-sum-to-target) |
 <!---LeetCode Topics End-->
