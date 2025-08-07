@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ghost9933/DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3447-clear-digits](https://github.com/ghost9933/DSA/tree/master/3447-clear-digits) |
 | [3617-find-the-original-typed-string-i](https://github.com/ghost9933/DSA/tree/master/3617-find-the-original-typed-string-i) |
+| [3931-process-string-with-special-operations-i](https://github.com/ghost9933/DSA/tree/master/3931-process-string-with-special-operations-i) |
 ## Matrix
 |  |
 | ------- |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ghost9933/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/ghost9933/DSA/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ghost9933/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3931-process-string-with-special-operations-i](https://github.com/ghost9933/DSA/tree/master/3931-process-string-with-special-operations-i) |
 ## Two Pointers
 |  |
 | ------- |
