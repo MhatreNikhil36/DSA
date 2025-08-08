@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3081-minimum-array-length-after-pair-removals](https://github.com/ghost9933/DSA/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ghost9933/DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ghost9933/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3362-find-the-median-of-the-uniqueness-array](https://github.com/ghost9933/DSA/tree/master/3362-find-the-median-of-the-uniqueness-array) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ghost9933/DSA/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/ghost9933/DSA/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ghost9933/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/ghost9933/DSA/tree/master/2685-first-completely-painted-row-or-column) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/ghost9933/DSA/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ghost9933/DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3362-find-the-median-of-the-uniqueness-array](https://github.com/ghost9933/DSA/tree/master/3362-find-the-median-of-the-uniqueness-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ghost9933/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/ghost9933/DSA/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ghost9933/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -723,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MhatreNikhil36/DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/ghost9933/DSA/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/ghost9933/DSA/tree/master/3081-minimum-array-length-after-pair-removals) |
+| [3362-find-the-median-of-the-uniqueness-array](https://github.com/ghost9933/DSA/tree/master/3362-find-the-median-of-the-uniqueness-array) |
 | [3791-fruits-into-baskets-iii](https://github.com/ghost9933/DSA/tree/master/3791-fruits-into-baskets-iii) |
 ## Sliding Window
 |  |
@@ -740,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ghost9933/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ghost9933/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ghost9933/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3362-find-the-median-of-the-uniqueness-array](https://github.com/ghost9933/DSA/tree/master/3362-find-the-median-of-the-uniqueness-array) |
 ## Tree
 |  |
 | ------- |
