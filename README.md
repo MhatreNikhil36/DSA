@@ -593,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0185-department-top-three-salaries](https://github.com/ghost9933/DSA/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/ghost9933/DSA/tree/master/0196-delete-duplicate-emails) |
 | [0262-trips-and-users](https://github.com/ghost9933/DSA/tree/master/0262-trips-and-users) |
+| [0579-find-cumulative-salary-of-an-employee](https://github.com/ghost9933/DSA/tree/master/0579-find-cumulative-salary-of-an-employee) |
 | [0584-find-customer-referee](https://github.com/ghost9933/DSA/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/ghost9933/DSA/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/ghost9933/DSA/tree/master/0586-customer-placing-the-largest-number-of-orders) |
