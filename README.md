@@ -680,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1932-grand-slam-titles](https://github.com/ghost9933/DSA/tree/master/1932-grand-slam-titles) |
 | [1942-primary-department-for-each-employee](https://github.com/ghost9933/DSA/tree/master/1942-primary-department-for-each-employee) |
 | [1948-rearrange-products-table](https://github.com/ghost9933/DSA/tree/master/1948-rearrange-products-table) |
+| [1958-ad-free-sessions](https://github.com/ghost9933/DSA/tree/master/1958-ad-free-sessions) |
 | [1964-find-interview-candidates](https://github.com/ghost9933/DSA/tree/master/1964-find-interview-candidates) |
 | [1974-find-customers-with-positive-revenue-this-year](https://github.com/MhatreNikhil36/DSA/tree/master/1974-find-customers-with-positive-revenue-this-year) |
 | [1981-maximum-transaction-each-day](https://github.com/ghost9933/DSA/tree/master/1981-maximum-transaction-each-day) |
