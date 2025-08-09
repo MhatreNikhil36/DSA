@@ -1,7 +1,8 @@
-# Write your MySQL query statement below
-select p.session_id
-from playback p
-left  join ads a
-on a.customer_id=p.customer_id
-group by p.session_id
-having sum(case  when a.timestamp    between p.start_time and p.end_time then 1 else  0 end)<1
+SELECT p.session_id
+FROM playback p
+WHERE NOT EXISTS (
+    SELECT 1
+    FROM ads a
+    WHERE a.customer_id = p.customer_id
+      AND a.timestamp BETWEEN p.start_time AND p.end_time
+);
