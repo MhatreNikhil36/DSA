@@ -663,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1735-the-most-frequently-ordered-products-for-each-customer](https://github.com/ghost9933/DSA/tree/master/1735-the-most-frequently-ordered-products-for-each-customer) |
 | [1749-sellers-with-no-sales](https://github.com/ghost9933/DSA/tree/master/1749-sellers-with-no-sales) |
 | [1759-find-the-missing-ids](https://github.com/ghost9933/DSA/tree/master/1759-find-the-missing-ids) |
+| [1763-all-valid-triplets-that-can-represent-a-country](https://github.com/ghost9933/DSA/tree/master/1763-all-valid-triplets-that-can-represent-a-country) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/ghost9933/DSA/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1811-fix-names-in-a-table](https://github.com/ghost9933/DSA/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/ghost9933/DSA/tree/master/1827-invalid-tweets) |
