@@ -649,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1551-npv-queries](https://github.com/ghost9933/DSA/tree/master/1551-npv-queries) |
 | [1565-evaluate-boolean-expression](https://github.com/ghost9933/DSA/tree/master/1565-evaluate-boolean-expression) |
 | [1578-apples-oranges](https://github.com/ghost9933/DSA/tree/master/1578-apples-oranges) |
+| [1579-active-users](https://github.com/ghost9933/DSA/tree/master/1579-active-users) |
 | [1623-sales-by-day-of-the-week](https://github.com/ghost9933/DSA/tree/master/1623-sales-by-day-of-the-week) |
 | [1625-group-sold-products-by-the-date](https://github.com/ghost9933/DSA/tree/master/1625-group-sold-products-by-the-date) |
 | [1639-friendly-movies-streamed-last-month](https://github.com/ghost9933/DSA/tree/master/1639-friendly-movies-streamed-last-month) |
