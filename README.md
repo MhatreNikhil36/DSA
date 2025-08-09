@@ -692,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2313-longest-winning-streak](https://github.com/ghost9933/DSA/tree/master/2313-longest-winning-streak) |
 | [2370-users-with-two-purchases-within-seven-days](https://github.com/ghost9933/DSA/tree/master/2370-users-with-two-purchases-within-seven-days) |
 | [2376-number-of-times-a-driver-was-a-passenger](https://github.com/ghost9933/DSA/tree/master/2376-number-of-times-a-driver-was-a-passenger) |
+| [2431-products-with-three-or-more-orders-in-two-consecutive-years](https://github.com/ghost9933/DSA/tree/master/2431-products-with-three-or-more-orders-in-two-consecutive-years) |
 | [2451-product-sales-analysis-iv](https://github.com/ghost9933/DSA/tree/master/2451-product-sales-analysis-iv) |
 | [2452-product-sales-analysis-v](https://github.com/ghost9933/DSA/tree/master/2452-product-sales-analysis-v) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ghost9933/DSA/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
