@@ -608,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0613-shortest-distance-in-a-line](https://github.com/ghost9933/DSA/tree/master/0613-shortest-distance-in-a-line) |
 | [0619-biggest-single-number](https://github.com/ghost9933/DSA/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/ghost9933/DSA/tree/master/0626-exchange-seats) |
+| [0627-swap-salary](https://github.com/ghost9933/DSA/tree/master/0627-swap-salary) |
 | [1135-customers-who-bought-all-products](https://github.com/ghost9933/DSA/tree/master/1135-customers-who-bought-all-products) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/ghost9933/DSA/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1154-product-sales-analysis-ii](https://github.com/ghost9933/DSA/tree/master/1154-product-sales-analysis-ii) |
