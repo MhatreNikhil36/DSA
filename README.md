@@ -699,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ghost9933/DSA/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [2534-employees-with-deductions](https://github.com/ghost9933/DSA/tree/master/2534-employees-with-deductions) |
 | [2613-customers-with-strictly-increasing-purchases](https://github.com/ghost9933/DSA/tree/master/2613-customers-with-strictly-increasing-purchases) |
+| [2853-consecutive-transactions-with-increasing-amounts](https://github.com/ghost9933/DSA/tree/master/2853-consecutive-transactions-with-increasing-amounts) |
 ## Trie
 |  |
 | ------- |
