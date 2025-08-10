@@ -693,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-employees-with-missing-information](https://github.com/ghost9933/DSA/tree/master/2110-employees-with-missing-information) |
 | [2120-first-and-last-call-on-the-same-day](https://github.com/ghost9933/DSA/tree/master/2120-first-and-last-call-on-the-same-day) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/ghost9933/DSA/tree/master/2127-employees-whose-manager-left-the-company) |
+| [2302-order-two-columns-independently](https://github.com/ghost9933/DSA/tree/master/2302-order-two-columns-independently) |
 | [2313-longest-winning-streak](https://github.com/ghost9933/DSA/tree/master/2313-longest-winning-streak) |
 | [2370-users-with-two-purchases-within-seven-days](https://github.com/ghost9933/DSA/tree/master/2370-users-with-two-purchases-within-seven-days) |
 | [2376-number-of-times-a-driver-was-a-passenger](https://github.com/ghost9933/DSA/tree/master/2376-number-of-times-a-driver-was-a-passenger) |
