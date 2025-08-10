@@ -691,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2041-the-latest-login-in-2020](https://github.com/ghost9933/DSA/tree/master/2041-the-latest-login-in-2020) |
 | [2057-count-salary-categories](https://github.com/ghost9933/DSA/tree/master/2057-count-salary-categories) |
 | [2110-employees-with-missing-information](https://github.com/ghost9933/DSA/tree/master/2110-employees-with-missing-information) |
+| [2120-first-and-last-call-on-the-same-day](https://github.com/ghost9933/DSA/tree/master/2120-first-and-last-call-on-the-same-day) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/ghost9933/DSA/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2313-longest-winning-streak](https://github.com/ghost9933/DSA/tree/master/2313-longest-winning-streak) |
 | [2370-users-with-two-purchases-within-seven-days](https://github.com/ghost9933/DSA/tree/master/2370-users-with-two-purchases-within-seven-days) |
