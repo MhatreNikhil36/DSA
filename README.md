@@ -704,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2534-employees-with-deductions](https://github.com/ghost9933/DSA/tree/master/2534-employees-with-deductions) |
 | [2613-customers-with-strictly-increasing-purchases](https://github.com/ghost9933/DSA/tree/master/2613-customers-with-strictly-increasing-purchases) |
 | [2853-consecutive-transactions-with-increasing-amounts](https://github.com/ghost9933/DSA/tree/master/2853-consecutive-transactions-with-increasing-amounts) |
+| [3255-pizza-toppings-cost-analysis](https://github.com/ghost9933/DSA/tree/master/3255-pizza-toppings-cost-analysis) |
 ## Trie
 |  |
 | ------- |
