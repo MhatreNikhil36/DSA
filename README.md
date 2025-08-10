@@ -625,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1214-highest-grade-for-each-student](https://github.com/ghost9933/DSA/tree/master/1214-highest-grade-for-each-student) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/ghost9933/DSA/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/ghost9933/DSA/tree/master/1258-article-views-i) |
+| [1268-market-analysis-i](https://github.com/ghost9933/DSA/tree/master/1268-market-analysis-i) |
 | [1278-product-price-at-a-given-date](https://github.com/ghost9933/DSA/tree/master/1278-product-price-at-a-given-date) |
 | [1291-immediate-food-delivery-i](https://github.com/ghost9933/DSA/tree/master/1291-immediate-food-delivery-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/ghost9933/DSA/tree/master/1292-immediate-food-delivery-ii) |
