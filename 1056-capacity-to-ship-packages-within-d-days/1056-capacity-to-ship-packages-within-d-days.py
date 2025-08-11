@@ -24,7 +24,7 @@ class Solution:
         while s<=e:
             m=s+(e-s)//2
             reqDays=self.daysPerCapacity(weights,m)
-            print(m,reqDays)
+            # print(m,reqDays)
             if reqDays>days:
                 s=m+1
             else:
