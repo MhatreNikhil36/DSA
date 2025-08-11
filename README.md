@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ghost9933/DSA/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/ghost9933/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/ghost9933/DSA/tree/master/0079-word-search) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ghost9933/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0136-single-number](https://github.com/ghost9933/DSA/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/ghost9933/DSA/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/ghost9933/DSA/tree/master/0162-find-peak-element) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ghost9933/DSA/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/ghost9933/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ghost9933/DSA/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ghost9933/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/ghost9933/DSA/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/ghost9933/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/ghost9933/DSA/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
@@ -771,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ghost9933/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ghost9933/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ghost9933/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ghost9933/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ghost9933/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -829,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ghost9933/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ghost9933/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ghost9933/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ghost9933/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ghost9933/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -1083,6 +1087,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ghost9933/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ghost9933/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ghost9933/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/ghost9933/DSA/tree/master/1014-k-closest-points-to-origin) |
