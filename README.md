@@ -644,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-find-the-team-size](https://github.com/ghost9933/DSA/tree/master/1438-find-the-team-size) |
 | [1452-restaurant-growth](https://github.com/ghost9933/DSA/tree/master/1452-restaurant-growth) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/ghost9933/DSA/tree/master/1462-list-the-products-ordered-in-a-period) |
+| [1467-number-of-transactions-per-visit](https://github.com/ghost9933/DSA/tree/master/1467-number-of-transactions-per-visit) |
 | [1480-movie-rating](https://github.com/ghost9933/DSA/tree/master/1480-movie-rating) |
 | [1481-students-with-invalid-departments](https://github.com/ghost9933/DSA/tree/master/1481-students-with-invalid-departments) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/ghost9933/DSA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
