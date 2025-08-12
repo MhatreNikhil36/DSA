@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ghost9933/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/ghost9933/DSA/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3647-zero-array-transformation-iii](https://github.com/ghost9933/DSA/tree/master/3647-zero-array-transformation-iii) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/ghost9933/DSA/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ghost9933/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3791-fruits-into-baskets-iii](https://github.com/ghost9933/DSA/tree/master/3791-fruits-into-baskets-iii) |
 | [3949-minimum-number-of-primes-to-sum-to-target](https://github.com/ghost9933/DSA/tree/master/3949-minimum-number-of-primes-to-sum-to-target) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2808-painting-the-walls](https://github.com/ghost9933/DSA/tree/master/2808-painting-the-walls) |
 | [3024-string-transformation](https://github.com/ghost9933/DSA/tree/master/3024-string-transformation) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/ghost9933/DSA/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/ghost9933/DSA/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3949-minimum-number-of-primes-to-sum-to-target](https://github.com/ghost9933/DSA/tree/master/3949-minimum-number-of-primes-to-sum-to-target) |
 ## Backtracking
 |  |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/ghost9933/DSA/tree/master/3362-find-the-median-of-the-uniqueness-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ghost9933/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/ghost9933/DSA/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/ghost9933/DSA/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ghost9933/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Prefix Sum
 |  |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/ghost9933/DSA/tree/master/2529-range-product-queries-of-powers) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/ghost9933/DSA/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [3647-zero-array-transformation-iii](https://github.com/ghost9933/DSA/tree/master/3647-zero-array-transformation-iii) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/ghost9933/DSA/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## String
 |  |
 | ------- |
@@ -1026,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2636-maximum-subsequence-score](https://github.com/ghost9933/DSA/tree/master/2636-maximum-subsequence-score) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/ghost9933/DSA/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3647-zero-array-transformation-iii](https://github.com/ghost9933/DSA/tree/master/3647-zero-array-transformation-iii) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/ghost9933/DSA/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ghost9933/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting
 |  |
@@ -1125,6 +1130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/ghost9933/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ghost9933/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/ghost9933/DSA/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Doubly-Linked List
 |  |
 | ------- |
