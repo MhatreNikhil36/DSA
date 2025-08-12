@@ -8,6 +8,5 @@ with rnk_emp_salary as (
 select d.name Department ,e.name Employee , e.salary
 from 
     (select name,departmentid,salary ,rnk 
-    from rnk_emp_salary ) e
+    from rnk_emp_salary WHERE rnk < 4) e
  join Department d on e.departmentid=d.id
-where e.rnk<4
